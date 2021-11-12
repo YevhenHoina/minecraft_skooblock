@@ -1,5 +1,3 @@
-craftingTable.removeByRegex("minecraft:.*_planks");
-craftingTable.removeByRegex("minecraft:.*_planks");
 Recipe.type(Type.CARPENTER)
     .shapeless([<tag:items:minecraft:oak_logs>])
     .output(<item:minecraft:oak_planks> * 4)
