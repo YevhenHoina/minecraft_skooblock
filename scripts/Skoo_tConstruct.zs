@@ -1,3 +1,7 @@
+import mods.artisanworktables.Recipe;
+import mods.artisanworktables.Type;
+import mods.artisanworktables.Tier;
+
 //tinker construct
 {
     <recipetype:tconstruct:casting_basin>.removeRecipe(<item:minecraft:netherite_scrap>);

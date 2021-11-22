@@ -1,3 +1,7 @@
+import mods.artisanworktables.Recipe;
+import mods.artisanworktables.Type;
+import mods.artisanworktables.Tier;
+
 Recipe.type(Type.CARPENTER)
     .shapeless([<tag:items:minecraft:oak_logs>])
     .output(<item:minecraft:oak_planks> * 4)

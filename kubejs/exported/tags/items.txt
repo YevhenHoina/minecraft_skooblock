@@ -1,0 +1,5230 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 18, 2021 10:19:03 PM
+
+#forge:seeds/amaranth
+- pamhc2crops:amaranthseeditem
+
+#forge:carbs/barley
+- pamhc2crops:barleyitem
+
+#mekanism:dirty_dusts/platinum
+- alltheores:dirty_platinum_dust
+
+#forge:plates
+- create:copper_sheet
+- create:brass_sheet
+- create:iron_sheet
+- create:golden_sheet
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#forge:flour_plants/breadfruit
+- pamhc2trees:breadfruititem
+
+#tconstruct:casts/single_use/blank
+- tconstruct:blank_sand_cast
+- tconstruct:blank_red_sand_cast
+
+#forge:crops/lettuce
+- pamhc2crops:lettuceitem
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+
+#biomesoplenty:hellbark_logs
+- decorative_blocks:hellbark_beam
+
+#forge:fruits/peach
+- pamhc2trees:peachitem
+
+#forge:seeds/cotton
+- pamhc2crops:cottonseeditem
+
+#forge:rootvegetables/rhubarb
+- pamhc2crops:rhubarbitem
+
+#forge:ingots/silver
+- alltheores:silver_ingot
+
+#tconstruct:slimy_leaves
+- tconstruct:earth_slime_leaves
+- tconstruct:sky_slime_leaves
+- tconstruct:ender_slime_leaves
+
+#forge:ingots/platinum
+- alltheores:platinum_ingot
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+
+#forge:beacon_payment
+- #create:create_ingots
+
+#forge:flour_plants/pecan
+- pamhc2trees:pecanitem
+
+#tconstruct:casts/multi_use/tool_binding
+- tconstruct:tool_binding_cast
+
+#forge:vinegar_ingredients/mango
+- pamhc2trees:mangoitem
+
+#forge:vegetables/bellpepper
+- pamhc2crops:bellpepperitem
+
+#forge:seeds/cassava
+- pamhc2crops:cassavaseeditem
+
+#forge:crops/wintersquash
+- pamhc2crops:wintersquashitem
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+- tconstruct:pink_clear_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#forge:storage_blocks/uranium
+- alltheores:uranium_block
+
+#forge:salad_ingredients
+- #forge:salad_ingredients/artichoke
+- #forge:salad_ingredients/asparagus
+- #forge:salad_ingredients/broccoli
+- #forge:salad_ingredients/brusselsprout
+- #forge:salad_ingredients/cabbage
+- #forge:salad_ingredients/cauliflower
+- #forge:salad_ingredients/kale
+- #forge:salad_ingredients/lettuce
+- #forge:salad_ingredients/pea
+- #forge:salad_ingredients/peas
+- #forge:salad_ingredients/spinach
+- #forge:salad_ingredients/tomatillo
+- #forge:salad_ingredients/tomato
+- #forge:salad_ingredients/zucchini
+
+#forge:ingots/hepatizon
+- tconstruct:hepatizon_ingot
+
+#forge:crops/nutmeg
+- pamhc2trees:nutmegitem
+
+#forge:crops/artichoke
+- pamhc2crops:artichokeitem
+
+#forge:crops/sweetpotato
+- pamhc2crops:sweetpotatoitem
+
+#forge:crops/greengrape
+- pamhc2crops:greengrapeitem
+
+#forge:fruits/breadfruit
+- pamhc2trees:breadfruititem
+
+#forge:weak_ores/copper
+- survivalist:copper_ore_rock
+
+#forge:ingots/pig_iron
+- tconstruct:pig_iron_ingot
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#forge:weak_ores/gold
+- survivalist:gold_ore_rock
+
+#forge:ingots
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+- #forge:ingots/aluminum
+- #forge:ingots/copper
+- #forge:ingots/lead
+- #forge:ingots/nickel
+- #forge:ingots/osmium
+- #forge:ingots/platinum
+- #forge:ingots/silver
+- #forge:ingots/tin
+- #forge:ingots/zinc
+- #forge:ingots/uranium
+- #create:create_ingots
+- tconstruct:seared_brick
+- tconstruct:scorched_brick
+- #forge:ingots/copper
+- #forge:ingots/cobalt
+- #forge:ingots/slimesteel
+- #forge:ingots/silicon_bronze
+- #forge:ingots/rose_gold
+- #forge:ingots/pig_iron
+- #forge:ingots/queens_slime
+- #forge:ingots/manyullyn
+- #forge:ingots/hepatizon
+- #forge:ingots/soulsteel
+- #forge:ingots/knightslime
+
+#forge:fruits/lime
+- pamhc2trees:limeitem
+
+#forge:crops/oat
+- pamhc2crops:oatsitem
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:storage_blocks/copper
+- alltheores:copper_block
+- create:copper_block
+- tconstruct:copper_block
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#tconstruct:casts/multi_use/nugget
+- tconstruct:nugget_cast
+
+#forge:vinegar_ingredients/soursop
+- pamhc2trees:soursopitem
+
+#forge:egg/avocado
+- pamhc2trees:avocadoitem
+
+#forge:crops/mustardseeds
+- pamhc2crops:mustardseedsitem
+
+#forge:nuts/peanut
+- pamhc2crops:peanutitem
+
+#forge:crops/guava
+- pamhc2trees:guavaitem
+
+#forge:vinegar_ingredients/dragonfruit
+- pamhc2trees:dragonfruititem
+
+#forge:vegetables/asparagus
+- pamhc2crops:asparagusitem
+
+#forge:salad_ingredients/cauliflower
+- pamhc2crops:caulifloweritem
+
+#forge:rootvegetables/onion
+- pamhc2crops:onionitem
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:seeds/pineapple
+- pamhc2crops:pineappleseeditem
+
+#forge:salad_ingredients/kale
+- pamhc2crops:kaleitem
+
+#forge:crops/passionfruit
+- pamhc2trees:passionfruititem
+
+#forge:vegetables/sweetpotato
+- pamhc2crops:sweetpotatoitem
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:grain/quinoa
+- pamhc2crops:quinoaitem
+
+#forge:vinegar_ingredients/strawberry
+- pamhc2crops:strawberryitem
+
+#forge:fruits/date
+- pamhc2trees:dateitem
+
+#forge:flour_plants/almond
+- pamhc2trees:almonditem
+
+#forge:ores/lead
+- alltheores:ore_lead
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#tconstruct:casts/multi_use/coin
+- tconstruct:coin_cast
+
+#forge:fruits/dragonfruit
+- pamhc2trees:dragonfruititem
+
+#forge:crops/strawberry
+- pamhc2crops:strawberryitem
+
+#forge:nuggets/soulsteel
+- tconstruct:soulsteel_nugget
+
+#forge:flour_plants/jicama
+- pamhc2crops:jicamaitem
+
+#forge:glass/white
+- minecraft:white_stained_glass
+- tconstruct:white_clear_stained_glass
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+
+#biomesoplenty:willow_logs
+- decorative_blocks:willow_beam
+
+#forge:crops/coconut
+- pamhc2trees:coconutitem
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#forge:nuggets/manyullyn
+- tconstruct:manyullyn_nugget
+
+#forge:crops/peas
+- pamhc2crops:peasitem
+
+#forge:seeds/brusselsprout
+- pamhc2crops:brusselsproutseeditem
+
+#forge:crops/pear
+- pamhc2trees:pearitem
+
+#forge:fruits
+- #forge:fruits/cherry
+- #forge:fruits/gooseberry
+- #forge:fruits/lemon
+- #forge:fruits/orange
+- #forge:fruits/peach
+- #forge:fruits/pear
+- #forge:fruits/plum
+- #forge:fruits/pawpaw
+- #forge:fruits/soursop
+- #forge:fruits/apricot
+- #forge:fruits/banana
+- #forge:fruits/date
+- #forge:fruits/dragonfruit
+- #forge:fruits/durian
+- #forge:fruits/fig
+- #forge:fruits/grapefruit
+- #forge:fruits/lime
+- #forge:fruits/mango
+- #forge:fruits/papaya
+- #forge:fruits/persimmon
+- #forge:fruits/pomegranate
+- #forge:fruits/starfruit
+- #forge:fruits/breadfruit
+- #forge:fruits/guava
+- #forge:fruits/jackfruit
+- #forge:fruits/lychee
+- #forge:fruits/passionfruit
+- #forge:fruits/rambutan
+- #forge:fruits/tamarind
+- #forge:fruits/blackberries
+- #forge:fruits/blackberry
+- #forge:fruits/blueberries
+- #forge:fruits/blueberry
+- #forge:fruits/cactusfruit
+- #forge:fruits/cactus_fruit
+- #forge:fruits/candleberry
+- #forge:fruits/cantaloupe
+- #forge:fruits/cranberry
+- #forge:fruits/elderberry
+- #forge:fruits/grape
+- #forge:fruits/greengrape
+- #forge:fruits/huckleberry
+- #forge:fruits/juniperberry
+- #forge:fruits/kiwi
+- #forge:fruits/melon
+- #forge:fruits/mulberry
+- #forge:fruits/pineapple
+- #forge:fruits/raspberries
+- #forge:fruits/raspberry
+- #forge:fruits/strawberries
+- #forge:fruits/strawberry
+- #forge:fruits/sweet_berries
+
+#forge:nuts/pinenut
+- pamhc2trees:pinenutitem
+
+#createautomated:crushed_prismarine
+- createautomated:crushed_prismarine
+
+#mekanism:clumps/zinc
+- alltheores:zinc_clump
+
+#forge:crops/dragonfruit
+- pamhc2trees:dragonfruititem
+
+#forge:poor_ores/tin
+- survivalist:tin_ore_rock
+
+#mekanism:dirty_dusts/uranium
+- alltheores:dirty_uranium_dust
+
+#forge:vegetables/lettuce
+- pamhc2crops:lettuceitem
+
+#forge:fruits/papaya
+- pamhc2trees:papayaitem
+
+#forge:sand/colorless
+- minecraft:sand
+
+#forge:tools/scythe
+- tconstruct:kama
+- tconstruct:scythe
+
+#forge:fruits/jackfruit
+- pamhc2trees:jackfruititem
+
+#forge:weak_ores/silver
+- survivalist:silver_ore_rock
+
+#createautomated:bits/diamond
+- createautomated:diamond_bit
+
+#forge:vinegar_ingredients/pawpaw
+- pamhc2trees:pawpawitem
+
+#forge:slimeball/ender
+- tconstruct:ender_slime_ball
+
+#forge:nuggets/brass
+- create:brass_nugget
+
+#forge:grain/millet
+- pamhc2crops:milletitem
+
+#forge:crops/cashew
+- pamhc2trees:cashewitem
+
+#forge:protein/peanut
+- pamhc2crops:peanutitem
+
+#forge:nuts/hazelnut
+- pamhc2trees:hazelnutitem
+
+#forge:fruits/cantaloupe
+- pamhc2crops:cantaloupeitem
+
+#tconstruct:modifiable/melee/sword
+- tconstruct:sword
+- tconstruct:cleaver
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#forge:flour_plants/soybean
+- pamhc2crops:soybeanitem
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+
+#forge:vinegar_ingredients/rye
+- pamhc2crops:ryeitem
+
+#forge:storage_blocks/lead
+- alltheores:lead_block
+
+#forge:vegetables/tomatillo
+- pamhc2crops:tomatilloitem
+
+#createautomated:ore_pieces/iron
+- createautomated:iron_ore_piece
+
+#forge:vinegar_ingredients/passionfruit
+- pamhc2trees:passionfruititem
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+
+#drawerstooltip:compacting_drawers
+- storagedrawers:compacting_drawers_3
+
+#tconstruct:modifiable/melee_or_harvest
+- #tconstruct:modifiable/melee
+- #tconstruct:modifiable/harvest
+
+#forge:crops/millet
+- pamhc2crops:milletitem
+
+#survivalist:tanned_leather
+- survivalist:tanned_leather
+
+#forge:gems
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+
+#forge:vegetables/parsnip
+- pamhc2crops:parsnipitem
+
+#forge:rocks/diorite
+- survivalist:diorite_rock
+
+#forge:vinegar_ingredients/grapefruit
+- pamhc2trees:grapefruititem
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:nuggets/netherite_scrap
+- tconstruct:debris_nugget
+
+#forge:rocks/granite
+- survivalist:granite_rock
+
+#forge:rootvegetables/rutabaga
+- pamhc2crops:rutabagaitem
+
+#forge:vegetables/spinach
+- pamhc2crops:spinachitem
+
+#forge:flour_plants/oat
+- pamhc2crops:oatsitem
+
+#forge:flour_plants/hazelnut
+- pamhc2trees:hazelnutitem
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:crops/cranberry
+- pamhc2crops:cranberryitem
+
+#mekanism:shards/zinc
+- alltheores:zinc_shard
+
+#forge:protein
+- #forge:protein/quinoa
+- #forge:protein/rice
+- #forge:protein/corn
+- #forge:protein/sweetpotato
+- #forge:protein/sweet_potato
+- #forge:protein/peanut
+- #forge:protein/spinach
+
+#forge:ingots/copper
+- alltheores:copper_ingot
+- create:copper_ingot
+- tconstruct:copper_ingot
+
+#tconstruct:casts/single_use/plate
+- tconstruct:plate_sand_cast
+- tconstruct:plate_red_sand_cast
+
+#forge:seeds/eggplant
+- pamhc2crops:eggplantseeditem
+
+#forge:ores/cobalt
+- tconstruct:cobalt_ore
+
+#tconstruct:casts/multi_use/broad_axe_head
+- tconstruct:broad_axe_head_cast
+
+#forge:vegetables/artichoke
+- pamhc2crops:artichokeitem
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+- tconstruct:blue_clear_stained_glass
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- bamboo_blocks:bamboo_trapdoor
+- tconstruct:greenheart_trapdoor
+- tconstruct:skyroot_trapdoor
+- tconstruct:bloodshroom_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+
+#forge:vinegar_ingredients/raspberries
+- pamhc2crops:raspberryitem
+
+#forge:ingots/brass
+- create:brass_ingot
+
+#forge:vinegar_ingredients/gooseberry
+- pamhc2trees:gooseberryitem
+
+#forge:seeds/chilipepper
+- pamhc2crops:chilipepperseeditem
+
+#forge:vinegar_ingredients/fig
+- pamhc2trees:figitem
+
+#survivalist:rocks/andesite
+- survivalist:andesite_rock
+
+#forge:nuggets/silicon_bronze
+- tconstruct:tinkers_bronze_nugget
+
+#tconstruct:casts/multi_use/gem
+- tconstruct:gem_cast
+
+#forge:vegetables/turnip
+- pamhc2crops:turnipitem
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#forge:vinegar_ingredients/blueberry
+- pamhc2crops:blueberryitem
+
+#cauldronrecipes:dyed_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- bamboo_blocks:bamboo_door
+- tconstruct:greenheart_door
+- tconstruct:skyroot_door
+- tconstruct:bloodshroom_door
+
+#tconstruct:duct_containers
+- minecraft:bucket
+- tconstruct:copper_can
+- tconstruct:seared_lantern
+- tconstruct:scorched_lantern
+
+#forge:crops/gooseberry
+- pamhc2trees:gooseberryitem
+
+#forge:seeds/raspberry
+- pamhc2crops:raspberryseeditem
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+- tconstruct:purple_clear_stained_glass
+
+#forge:flour_plants/taro
+- pamhc2crops:taroitem
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- decorative_blocks:crimson_beam
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#forge:onions
+- #forge:onions/onion
+- #forge:onions/scallion
+
+#forge:nuggets/netherite
+- createdeco:netherite_nugget
+- tconstruct:netherite_nugget
+
+#mekanism:crystals/uranium
+- alltheores:uranium_crystal
+
+#forge:vinegar_ingredients/juniperberry
+- pamhc2crops:juniperberryitem
+
+#mekanism:shards/tin
+- alltheores:tin_shard
+
+#mekanism:shards/nickel
+- alltheores:nickel_shard
+
+#forge:weak_ores/lead
+- survivalist:lead_ore_rock
+
+#forge:crops/starfruit
+- pamhc2trees:starfruititem
+
+#forge:flour_plants/chickpea
+- pamhc2crops:chickpeaitem
+
+#survivalist:nuggets/aluminum
+- survivalist:aluminum_nugget
+
+#forge:fruits/strawberries
+- pamhc2crops:strawberryitem
+
+#tconstruct:slime_block
+- minecraft:slime_block
+- tconstruct:sky_slime
+- tconstruct:ichor_slime
+- tconstruct:ender_slime
+- tconstruct:blood_slime
+
+#forge:fruits/lemon
+- pamhc2trees:lemonitem
+
+#mekanism:shards/osmium
+- alltheores:osmium_shard
+
+#forge:nuggets/platinum
+- alltheores:platinum_nugget
+- morecreatestuffs:platinum_nugget
+
+#forge:crops/rice
+- pamhc2crops:riceitem
+
+#tconstruct:scorched_tanks
+- tconstruct:scorched_fuel_tank
+- tconstruct:scorched_fuel_gauge
+- tconstruct:scorched_ingot_tank
+- tconstruct:scorched_ingot_gauge
+
+#forge:nuts/pecan
+- pamhc2trees:pecanitem
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#forge:seeds/barley
+- pamhc2crops:barleyseeditem
+
+#createautomated:ore_pieces/lapis
+- createautomated:lapis_ore_piece
+
+#forge:seeds/jute
+- pamhc2crops:juteseeditem
+
+#forge:nuggets/pig_iron
+- tconstruct:pig_iron_nugget
+
+#survivalist:ore_rocks/gold
+- survivalist:gold_ore_rock
+
+#forge:ingots/queens_slime
+- tconstruct:queens_slime_ingot
+
+#forge:spices/sesameseeds
+- pamhc2crops:sesameseedsitem
+
+#tconstruct:casts/multi_use/broad_blade
+- tconstruct:broad_blade_cast
+
+#mekanism:crystals/platinum
+- alltheores:platinum_crystal
+
+#forge:crops/rutabaga
+- pamhc2crops:rutabagaitem
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:seeds/okra
+- pamhc2crops:okraseeditem
+
+#forge:storage_blocks/silver
+- alltheores:silver_block
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#mekanism:crystals
+- #mekanism:crystals/aluminum
+- #mekanism:crystals/copper
+- #mekanism:crystals/lead
+- #mekanism:crystals/nickel
+- #mekanism:crystals/osmium
+- #mekanism:crystals/platinum
+- #mekanism:crystals/silver
+- #mekanism:crystals/tin
+- #mekanism:crystals/uranium
+- #mekanism:crystals/zinc
+
+#forge:fruits/cactusfruit
+- pamhc2crops:cactusfruititem
+
+#forge:vinegar_ingredients/greengrape
+- pamhc2crops:greengrapeitem
+
+#forge:nuggets/knightslime
+- tconstruct:knightslime_nugget
+
+#biomesoplenty:palm_logs
+- decorative_blocks:palm_beam
+
+#forge:nuggets/zinc
+- alltheores:zinc_nugget
+- create:zinc_nugget
+
+#forge:crops/cucumber
+- pamhc2crops:cucumberitem
+
+#forge:grain/wheat
+- minecraft:wheat
+
+#forge:protein/quinoa
+- pamhc2crops:quinoaitem
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+- tconstruct:lime_clear_stained_glass
+
+#forge:chests/wooden
+- bamboo_blocks:bamboo_chest
+- bamboo_blocks:bamboo_trapped_chest
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:storage_blocks/aluminum
+- alltheores:aluminum_block
+
+#tconstruct:modifiable/aoe
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:flint_and_bronze
+
+#minecraft:milk_bucket
+- minecraft:milk_bucket
+- woodenbuckets:wooden_milk_bucket
+- minecraft:milk_bucket
+- woodenbuckets:wooden_milk_bucket
+
+#forge:dusts/copper
+- alltheores:copper_dust
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#forge:seeds/taro
+- pamhc2crops:taroseeditem
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#forge:seeds/broccoli
+- pamhc2crops:broccoliseeditem
+
+#forge:seeds/cucumber
+- pamhc2crops:cucumberseeditem
+
+#forge:poor_ores/silver
+- survivalist:silver_ore_rock
+
+#forge:paper_plants/pineapple
+- pamhc2crops:pineappleitem
+
+#forge:nuggets/uranium
+- alltheores:uranium_nugget
+
+#forge:crops/spiceleaf
+- pamhc2crops:spiceleafitem
+
+#forge:crops/leek
+- pamhc2crops:leekitem
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:paper_plants/rice
+- pamhc2crops:riceitem
+
+#forge:crops/pawpaw
+- pamhc2trees:pawpawitem
+
+#forge:nuggets/nickel
+- alltheores:nickel_nugget
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+- tconstruct:orange_clear_stained_glass
+
+#forge:seeds/rutabaga
+- pamhc2crops:rutabagaseeditem
+
+#forge:egg/banana
+- pamhc2trees:bananaitem
+
+#forge:seeds/lettuce
+- pamhc2crops:lettuceseeditem
+
+#forge:rootvegetables/parsnip
+- pamhc2crops:parsnipitem
+
+#forge:seeds/tomatillo
+- pamhc2crops:tomatilloseeditem
+
+#forge:plates/gold
+- create:golden_sheet
+
+#forge:salad_ingredients/pea
+- pamhc2crops:peasitem
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+
+#forge:salad_ingredients/tomatillo
+- pamhc2crops:tomatilloitem
+
+#tconstruct:slimy_grass_seeds
+- tconstruct:earth_slime_grass_seeds
+- tconstruct:sky_slime_grass_seeds
+- tconstruct:ichor_slime_grass_seeds
+- tconstruct:ender_slime_grass_seeds
+- tconstruct:blood_slime_grass_seeds
+
+#forge:crops/cassava
+- pamhc2crops:cassavaitem
+
+#forge:seeds/kale
+- pamhc2crops:kaleseeditem
+
+#tconstruct:casts/single_use/pickaxe_head
+- tconstruct:pickaxe_head_sand_cast
+- tconstruct:pickaxe_head_red_sand_cast
+
+#forge:fruits/pear
+- pamhc2trees:pearitem
+
+#tconstruct:guides
+- tconstruct:materials_and_you
+- tconstruct:tinkers_gadgetry
+- tconstruct:puny_smelting
+- tconstruct:mighty_smelting
+- tconstruct:fantastic_foundry
+- tconstruct:encyclopedia
+
+#tconstruct:congealed_slime
+- tconstruct:earth_congealed_slime
+- tconstruct:sky_congealed_slime
+- tconstruct:ichor_congealed_slime
+- tconstruct:ender_congealed_slime
+- tconstruct:blood_congealed_slime
+
+#tconstruct:modifiable/melee/primary
+- tconstruct:sledge_hammer
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+
+#forge:crops/asparagus
+- pamhc2crops:asparagusitem
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#forge:vegetables/celery
+- pamhc2crops:celeryitem
+
+#forge:paper_plants/juniperberry
+- pamhc2crops:juniperberryitem
+
+#forge:fruits/blackberry
+- pamhc2crops:blackberryitem
+
+#forge:crops/sisal
+- pamhc2crops:sisalitem
+
+#forge:vinegar_ingredients/elderberry
+- pamhc2crops:elderberryitem
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:vinegar_ingredients/banana
+- pamhc2trees:bananaitem
+
+#forge:vinegar_ingredients/agave
+- pamhc2crops:agaveitem
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- bamboo_blocks:bamboo_pressure_plate
+- tconstruct:greenheart_pressure_plate
+- tconstruct:skyroot_pressure_plate
+- tconstruct:bloodshroom_pressure_plate
+
+#forge:vegetables/sweet_potato
+- pamhc2crops:sweetpotatoitem
+
+#forge:fruits/raspberry
+- pamhc2crops:raspberryitem
+
+#biomesoplenty:redwood_logs
+- decorative_blocks:redwood_beam
+
+#forge:nuggets/osmium
+- alltheores:osmium_nugget
+
+#forge:vegetables/brusselsprout
+- pamhc2crops:brusselsproutitem
+
+#biomesoplenty:jacaranda_logs
+- decorative_blocks:jacaranda_beam
+
+#create:create_ingots
+- create:copper_ingot
+- create:zinc_ingot
+- create:brass_ingot
+
+#forge:fruits/persimmon
+- pamhc2trees:persimmonitem
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:crops/elderberry
+- pamhc2crops:elderberryitem
+
+#forge:spices/ginger
+- pamhc2crops:gingeritem
+
+#forge:ore_rocks/tin
+- survivalist:tin_ore_rock
+
+#tconstruct:casts/multi_use/blank
+- tconstruct:blank_cast
+
+#forge:paper_plants/spiceleaf
+- pamhc2crops:spiceleafitem
+
+#forge:fruits/candleberry
+- pamhc2crops:candleberryitem
+
+#forge:salad_ingredients/lettuce
+- pamhc2crops:lettuceitem
+
+#tconstruct:casts/multi_use/tough_handle
+- tconstruct:tough_handle_cast
+
+#forge:seeds/leek
+- pamhc2crops:leekseeditem
+
+#forge:fruits/plum
+- pamhc2trees:plumitem
+
+#forge:crops/eggplant
+- pamhc2crops:eggplantitem
+
+#forge:vegetables/rutabaga
+- pamhc2crops:rutabagaitem
+
+#forge:gravel
+- minecraft:gravel
+- minecraft:gravel
+
+#forge:seeds/grape
+- pamhc2crops:grapeseeditem
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#biomesoplenty:magic_logs
+- decorative_blocks:magic_beam
+
+#forge:vinegar_ingredients/cactus_fruit
+- pamhc2crops:cactusfruititem
+
+#tconstruct:casts/multi_use
+- #tconstruct:casts/multi_use/blank
+- #tconstruct:casts/multi_use/ingot
+- #tconstruct:casts/multi_use/nugget
+- #tconstruct:casts/multi_use/gem
+- #tconstruct:casts/multi_use/rod
+- #tconstruct:casts/multi_use/repair_kit
+- #tconstruct:casts/multi_use/plate
+- #tconstruct:casts/multi_use/gear
+- #tconstruct:casts/multi_use/coin
+- #tconstruct:casts/multi_use/pickaxe_head
+- #tconstruct:casts/multi_use/small_axe_head
+- #tconstruct:casts/multi_use/small_blade
+- #tconstruct:casts/multi_use/hammer_head
+- #tconstruct:casts/multi_use/broad_axe_head
+- #tconstruct:casts/multi_use/broad_blade
+- #tconstruct:casts/multi_use/tool_binding
+- #tconstruct:casts/multi_use/large_plate
+- #tconstruct:casts/multi_use/tool_handle
+- #tconstruct:casts/multi_use/tough_handle
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+
+#forge:ores/zinc
+- alltheores:ore_zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#forge:nuggets/copper
+- alltheores:copper_nugget
+- create:copper_nugget
+- tconstruct:copper_nugget
+- survivalist:copper_nugget
+
+#forge:crops/rye
+- pamhc2crops:ryeitem
+
+#forge:ingots/silicon_bronze
+- tconstruct:tinkers_bronze_ingot
+
+#forge:fiber/flax
+- pamhc2crops:flaxitem
+
+#mekanism:clumps/platinum
+- alltheores:platinum_clump
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:seeds/asparagus
+- pamhc2crops:asparagusseeditem
+
+#forge:ore_rocks/copper
+- survivalist:copper_ore_rock
+
+#mekanism:dirty_dusts/lead
+- alltheores:dirty_lead_dust
+
+#forge:crops/jackfruit
+- pamhc2trees:jackfruititem
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- decorative_blocks:warped_beam
+
+#forge:seeds/oats
+- pamhc2crops:oatsseeditem
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+
+#create:sandpaper
+- create:sand_paper
+- create:red_sand_paper
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+- tconstruct:blaze_head
+- tconstruct:enderman_head
+- tconstruct:stray_head
+- tconstruct:husk_head
+- tconstruct:drowned_head
+- tconstruct:spider_head
+- tconstruct:cave_spider_head
+
+#forge:grain/lentil
+- pamhc2crops:lentilitem
+
+#forge:vinegar_ingredients/grape
+- pamhc2crops:grapeitem
+
+#forge:seeds/turnip
+- pamhc2crops:turnipseeditem
+
+#forge:fruits/cranberry
+- pamhc2crops:cranberryitem
+
+#forge:crops/bean
+- pamhc2crops:beanitem
+
+#tconstruct:casts/multi_use/large_plate
+- tconstruct:large_plate_cast
+
+#storagedrawers:drawers
+- storagedrawers:oak_full_drawers_1
+- storagedrawers:oak_full_drawers_2
+- storagedrawers:oak_full_drawers_4
+- storagedrawers:oak_half_drawers_1
+- storagedrawers:oak_half_drawers_2
+- storagedrawers:oak_half_drawers_4
+- storagedrawers:spruce_full_drawers_1
+- storagedrawers:spruce_full_drawers_2
+- storagedrawers:spruce_full_drawers_4
+- storagedrawers:spruce_half_drawers_1
+- storagedrawers:spruce_half_drawers_2
+- storagedrawers:spruce_half_drawers_4
+- storagedrawers:birch_full_drawers_1
+- storagedrawers:birch_full_drawers_2
+- storagedrawers:birch_full_drawers_4
+- storagedrawers:birch_half_drawers_1
+- storagedrawers:birch_half_drawers_2
+- storagedrawers:birch_half_drawers_4
+- storagedrawers:jungle_full_drawers_1
+- storagedrawers:jungle_full_drawers_2
+- storagedrawers:jungle_full_drawers_4
+- storagedrawers:jungle_half_drawers_1
+- storagedrawers:jungle_half_drawers_2
+- storagedrawers:jungle_half_drawers_4
+- storagedrawers:acacia_full_drawers_1
+- storagedrawers:acacia_full_drawers_2
+- storagedrawers:acacia_full_drawers_4
+- storagedrawers:acacia_half_drawers_1
+- storagedrawers:acacia_half_drawers_2
+- storagedrawers:acacia_half_drawers_4
+- storagedrawers:dark_oak_full_drawers_1
+- storagedrawers:dark_oak_full_drawers_2
+- storagedrawers:dark_oak_full_drawers_4
+- storagedrawers:dark_oak_half_drawers_1
+- storagedrawers:dark_oak_half_drawers_2
+- storagedrawers:dark_oak_half_drawers_4
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- decorative_blocks:dark_oak_beam
+
+#forge:seeds/millet
+- pamhc2crops:milletseeditem
+
+#mekanism:shards/uranium
+- alltheores:uranium_shard
+
+#survivalist:meat
+- minecraft:beef
+- minecraft:mutton
+- minecraft:porkchop
+
+#forge:poor_ores/gold
+- survivalist:gold_ore_rock
+
+#survivalist:rock_sources/lead
+- #forge:ores/lead?
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- #forge:mushrooms/brownmushroom
+- #forge:mushrooms/redmushroom
+- #forge:mushrooms/whitemushroom
+
+#forge:crops/rhubarb
+- pamhc2crops:rhubarbitem
+
+#forge:crops/hazelnut
+- pamhc2trees:hazelnutitem
+
+#tconstruct:casts
+- #tconstruct:casts/gold
+- #tconstruct:casts/sand
+- #tconstruct:casts/red_sand
+
+#forge:spices
+- #forge:spices/ginger
+- #forge:spices/mustardseeds
+- #forge:spices/sesameseeds
+- #forge:spices/spiceleaf
+
+#forge:nuts/cashew
+- pamhc2trees:cashewitem
+
+#survivalist:ore_rocks/lead
+- survivalist:lead_ore_rock
+
+#mekanism:shards
+- #mekanism:shards/aluminum
+- #mekanism:shards/copper
+- #mekanism:shards/lead
+- #mekanism:shards/nickel
+- #mekanism:shards/osmium
+- #mekanism:shards/platinum
+- #mekanism:shards/silver
+- #mekanism:shards/tin
+- #mekanism:shards/uranium
+- #mekanism:shards/zinc
+
+#forge:fruits/mango
+- pamhc2trees:mangoitem
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- #tconstruct:slimy_saplings
+
+#forge:ores/copper
+- alltheores:ore_copper
+- create:copper_ore
+- tconstruct:copper_ore
+
+#forge:leafyvegetables/lettuce
+- pamhc2crops:lettuceitem
+
+#survivalist:ore_rocks/aluminum
+- survivalist:aluminum_ore_rock
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- bamboo_blocks:bamboo_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+
+#forge:vegetables/leek
+- pamhc2crops:leekitem
+
+#forge:obsidian
+- minecraft:obsidian
+
+#biomesoplenty:mahogany_logs
+- decorative_blocks:mahogany_beam
+
+#mekanism:clumps/osmium
+- alltheores:osmium_clump
+
+#forge:vegetables/wintersquash
+- pamhc2crops:wintersquashitem
+
+#forge:crops/cotton
+- pamhc2crops:cottonitem
+
+#forge:crops/quinoa
+- pamhc2crops:quinoaitem
+
+#forge:paper_plants/raspberry
+- pamhc2crops:raspberryitem
+
+#forge:crops/waterchestnut
+- pamhc2crops:waterchestnutitem
+
+#mekanism:clumps/aluminum
+- alltheores:aluminum_clump
+
+#forge:vegetables/jicama
+- pamhc2crops:jicamaitem
+
+#forge:ore_rocks/gold
+- survivalist:gold_ore_rock
+
+#forge:fruits/fig
+- pamhc2trees:figitem
+
+#forge:buckets/honey
+- create:honey_bucket
+
+#tconstruct:casts/single_use/tool_handle
+- tconstruct:tool_handle_sand_cast
+- tconstruct:tool_handle_red_sand_cast
+
+#forge:carbs
+- #forge:carbs/barley
+- #forge:carbs/corn
+- #forge:carbs/oat
+- #forge:carbs/oats
+- #forge:carbs/rice
+- #forge:carbs/rye
+- #forge:carbs/sweetpotato
+- #forge:carbs/sweet_potato
+
+#forge:vinegar_ingredients/sweet_berries
+- minecraft:sweet_berries
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+- tconstruct:magenta_clear_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#forge:crops/orange
+- pamhc2trees:orangeitem
+
+#forge:crops/kenaf
+- pamhc2crops:kenafitem
+
+#forge:carbs/sweet_potato
+- pamhc2crops:sweetpotatoitem
+
+#forge:vegetables/eggplant
+- pamhc2crops:eggplantitem
+
+#tconstruct:seared_tanks
+- tconstruct:seared_fuel_tank
+- tconstruct:seared_fuel_gauge
+- tconstruct:seared_ingot_tank
+- tconstruct:seared_ingot_gauge
+
+#forge:nuts/walnut
+- pamhc2trees:walnutitem
+
+#forge:flour_plants/lentil
+- pamhc2crops:lentilitem
+
+#forge:crops/lychee
+- pamhc2trees:lycheeitem
+
+#survivalist:rocks/diorite
+- survivalist:diorite_rock
+
+#forge:crops/garlic
+- pamhc2crops:garlicitem
+
+#forge:poor_ores/copper
+- survivalist:copper_ore_rock
+
+#forge:books/guide
+- #tconstruct:guides
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+- tconstruct:cyan_clear_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+- bamboo_blocks:bamboo_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#forge:crops/grapefruit
+- pamhc2trees:grapefruititem
+
+#forge:protein/rice
+- pamhc2crops:riceitem
+
+#forge:grain/soybean
+- pamhc2crops:soybeanitem
+
+#forge:vinegar_ingredients/jackfruit
+- pamhc2trees:jackfruititem
+
+#forge:grain/barley
+- pamhc2crops:barleyitem
+
+#forge:storage_blocks/rose_gold
+- tconstruct:rose_gold_block
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:crops/potato
+- minecraft:potato
+
+#tconstruct:casts/gold
+- tconstruct:blank_cast
+- tconstruct:ingot_cast
+- tconstruct:nugget_cast
+- tconstruct:gem_cast
+- tconstruct:rod_cast
+- tconstruct:repair_kit_cast
+- tconstruct:plate_cast
+- tconstruct:gear_cast
+- tconstruct:coin_cast
+- tconstruct:pickaxe_head_cast
+- tconstruct:small_axe_head_cast
+- tconstruct:small_blade_cast
+- tconstruct:hammer_head_cast
+- tconstruct:broad_axe_head_cast
+- tconstruct:broad_blade_cast
+- tconstruct:tool_binding_cast
+- tconstruct:large_plate_cast
+- tconstruct:tool_handle_cast
+- tconstruct:tough_handle_cast
+
+#forge:protein/spinach
+- pamhc2crops:spinachitem
+
+#mekanism:clumps/silver
+- alltheores:silver_clump
+
+#forge:flour_plants/pistachio
+- pamhc2trees:pistachioitem
+
+#forge:storage_blocks/silicon_bronze
+- tconstruct:tinkers_bronze_block
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
+
+#forge:small_ores/tin
+- survivalist:tin_ore_rock
+
+#forge:nuggets/tin
+- alltheores:tin_nugget
+- survivalist:tin_nugget
+
+#forge:storage_blocks/queens_slime
+- tconstruct:queens_slime_block
+
+#forge:flour_plants/pinenut
+- pamhc2trees:pinenutitem
+
+#forge:storage_blocks/zinc
+- alltheores:zinc_block
+- create:zinc_block
+
+#forge:dusts/nickel
+- alltheores:nickel_dust
+
+#forge:crops/ginger
+- pamhc2crops:gingeritem
+
+#forge:workbenches
+- minecraft:crafting_table
+- tconstruct:crafting_station
+- #forge:workbench?
+
+#forge:dusts/gold
+- alltheores:gold_dust
+
+#forge:vinegar_ingredients/rice
+- pamhc2crops:riceitem
+
+#mekanism:shards/copper
+- alltheores:copper_shard
+
+#forge:protein/sweet_potato
+- pamhc2crops:sweetpotatoitem
+
+#forge:vinegar_ingredients/blueberries
+- pamhc2crops:blueberryitem
+
+#forge:ingots/netherite_scrap
+- minecraft:netherite_scrap
+
+#forge:vinegar_ingredients/pear
+- pamhc2trees:pearitem
+
+#forge:fruits/cactus_fruit
+- pamhc2crops:cactusfruititem
+
+#tconstruct:casts/single_use/tool_binding
+- tconstruct:tool_binding_sand_cast
+- tconstruct:tool_binding_red_sand_cast
+
+#forge:vegetables/arrowroot
+- pamhc2crops:arrowrootitem
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+- tconstruct:gray_clear_stained_glass
+
+#forge:vinegar_ingredients/orange
+- pamhc2trees:orangeitem
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#tconstruct:casts/single_use/rod
+- tconstruct:rod_sand_cast
+- tconstruct:rod_red_sand_cast
+
+#forge:crops/rambutan
+- pamhc2trees:rambutanitem
+
+#forge:ingots/rose_gold
+- tconstruct:rose_gold_ingot
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#forge:vinegar_ingredients/tamarind
+- pamhc2trees:tamarinditem
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
+
+#forge:vinegar_ingredients/apricot
+- pamhc2trees:apricotitem
+
+#forge:flour_plants/bean
+- pamhc2crops:beanitem
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#forge:vinegar_ingredients/cactusfruit
+- pamhc2crops:cactusfruititem
+
+#forge:seeds/quinoa
+- pamhc2crops:quinoaseeditem
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+
+#forge:carbs/oat
+- pamhc2crops:oatsitem
+
+#tconstruct:bloodshroom_logs
+- tconstruct:bloodshroom_log
+- tconstruct:stripped_bloodshroom_log
+- tconstruct:bloodshroom_wood
+- tconstruct:stripped_bloodshroom_wood
+
+#forge:vegetables/pea
+- pamhc2crops:peasitem
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#createautomated:drill_heads/iron
+- createautomated:drill_head
+
+#tconstruct:tables
+- tconstruct:crafting_station
+- tconstruct:part_builder
+- tconstruct:tinker_station
+
+#forge:crops/fig
+- pamhc2trees:figitem
+
+#mekanism:dirty_dusts/tin
+- alltheores:dirty_tin_dust
+
+#forge:vinegar_ingredients/starfruit
+- pamhc2trees:starfruititem
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+
+#forge:crops/apricot
+- pamhc2trees:apricotitem
+
+#tconstruct:casts/sand
+- tconstruct:blank_sand_cast
+- tconstruct:ingot_sand_cast
+- tconstruct:nugget_sand_cast
+- tconstruct:gem_sand_cast
+- tconstruct:rod_sand_cast
+- tconstruct:repair_kit_sand_cast
+- tconstruct:plate_sand_cast
+- tconstruct:gear_sand_cast
+- tconstruct:coin_sand_cast
+- tconstruct:pickaxe_head_sand_cast
+- tconstruct:small_axe_head_sand_cast
+- tconstruct:small_blade_sand_cast
+- tconstruct:hammer_head_sand_cast
+- tconstruct:broad_axe_head_sand_cast
+- tconstruct:broad_blade_sand_cast
+- tconstruct:tool_binding_sand_cast
+- tconstruct:large_plate_sand_cast
+- tconstruct:tool_handle_sand_cast
+- tconstruct:tough_handle_sand_cast
+
+#createautomated:ore_pieces/zinc
+- createautomated:zinc_ore_piece
+
+#mekanism:crystals/silver
+- alltheores:silver_crystal
+
+#forge:leafyvegetables/spinach
+- pamhc2crops:spinachitem
+
+#createautomated:drill_heads
+- createautomated:drill_head
+
+#survivalist:nuggets/tin
+- survivalist:tin_nugget
+
+#forge:crops/tomatillo
+- pamhc2crops:tomatilloitem
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:spices/spiceleaf
+- pamhc2crops:spiceleafitem
+
+#botanypots:hopper_botany_pots
+- botanypots:hopper_botany_pot
+- botanypots:hopper_white_botany_pot
+- botanypots:hopper_orange_botany_pot
+- botanypots:hopper_magenta_botany_pot
+- botanypots:hopper_light_blue_botany_pot
+- botanypots:hopper_yellow_botany_pot
+- botanypots:hopper_lime_botany_pot
+- botanypots:hopper_pink_botany_pot
+- botanypots:hopper_gray_botany_pot
+- botanypots:hopper_light_gray_botany_pot
+- botanypots:hopper_cyan_botany_pot
+- botanypots:hopper_purple_botany_pot
+- botanypots:hopper_blue_botany_pot
+- botanypots:hopper_brown_botany_pot
+- botanypots:hopper_green_botany_pot
+- botanypots:hopper_red_botany_pot
+- botanypots:hopper_black_botany_pot
+
+#biomesoplenty:cherry_logs
+- decorative_blocks:cherry_beam
+
+#forge:vegetables/cabbage
+- pamhc2crops:cabbageitem
+
+#forge:storage_blocks/platinum
+- alltheores:platinum_block
+
+#forge:ingots/nickel
+- alltheores:nickel_ingot
+
+#forge:grain/amaranth
+- pamhc2crops:amaranthitem
+
+#create:crushed_ores
+- create:crushed_iron_ore
+- create:crushed_gold_ore
+- create:crushed_copper_ore
+- create:crushed_zinc_ore
+- create:crushed_brass
+- create:crushed_osmium_ore
+- create:crushed_platinum_ore
+- create:crushed_silver_ore
+- create:crushed_tin_ore
+- create:crushed_lead_ore
+- create:crushed_quicksilver_ore
+- create:crushed_aluminum_ore
+- create:crushed_uranium_ore
+- create:crushed_nickel_ore
+- morecreatestuffs:crushed_cobalt_ore
+- morecreatestuffs:crushed_oratchalcum_ore
+- morecreatestuffs:crushed_platinum_ore
+- morecreatestuffs:crushed_adamantium_ore
+- morecreatestuffs:crushed_mythril_ore
+
+#forge:slimeball/sky
+- tconstruct:sky_slime_ball
+
+#forge:poor_ores/lead
+- survivalist:lead_ore_rock
+
+#createautomated:ore_pieces/cinder_flour
+- createautomated:cinder_flour_ore_piece
+
+#forge:seeds/zucchini
+- pamhc2crops:zucchiniseeditem
+
+#forge:crops
+- #forge:crops/avocado
+- #forge:crops/candlenut
+- #forge:crops/cherry
+- #forge:crops/chestnut
+- #forge:crops/gooseberry
+- #forge:crops/lemon
+- #forge:crops/nutmeg
+- #forge:crops/orange
+- #forge:crops/peach
+- #forge:crops/pear
+- #forge:crops/plum
+- #forge:crops/walnut
+- #forge:crops/hazelnut
+- #forge:crops/pawpaw
+- #forge:crops/soursop
+- #forge:crops/almond
+- #forge:crops/apricot
+- #forge:crops/banana
+- #forge:crops/cashew
+- #forge:crops/cinnamon
+- #forge:crops/coconut
+- #forge:crops/date
+- #forge:crops/dragonfruit
+- #forge:crops/durian
+- #forge:crops/fig
+- #forge:crops/grapefruit
+- #forge:crops/lime
+- #forge:crops/mango
+- #forge:crops/olive
+- #forge:crops/papaya
+- #forge:crops/pecan
+- #forge:crops/peppercorn
+- #forge:crops/persimmon
+- #forge:crops/pistachio
+- #forge:crops/pomegranate
+- #forge:crops/starfruit
+- #forge:crops/vanillabean
+- #forge:crops/breadfruit
+- #forge:crops/guava
+- #forge:crops/jackfruit
+- #forge:crops/lychee
+- #forge:crops/passionfruit
+- #forge:crops/rambutan
+- #forge:crops/tamarind
+- #forge:crops/maple
+- #forge:crops/pinenut
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+- #forge:crops/agave
+- #forge:crops/amaranth
+- #forge:crops/arrowroot
+- #forge:crops/artichoke
+- #forge:crops/asparagus
+- #forge:crops/barley
+- #forge:crops/bean
+- #forge:crops/bellpepper
+- #forge:crops/blackberry
+- #forge:crops/blueberry
+- #forge:crops/broccoli
+- #forge:crops/brusselsprout
+- #forge:crops/cabbage
+- #forge:crops/cactusfruit
+- #forge:crops/candleberry
+- #forge:crops/cantaloupe
+- #forge:crops/cassava
+- #forge:crops/cauliflower
+- #forge:crops/celery
+- #forge:crops/chickpea
+- #forge:crops/chilipepper
+- #forge:crops/coffeebean
+- #forge:crops/corn
+- #forge:crops/cotton
+- #forge:crops/cranberry
+- #forge:crops/cucumber
+- #forge:crops/eggplant
+- #forge:crops/elderberry
+- #forge:crops/flax
+- #forge:crops/garlic
+- #forge:crops/ginger
+- #forge:crops/grape
+- #forge:crops/greengrape
+- #forge:crops/huckleberry
+- #forge:crops/jicama
+- #forge:crops/juniperberry
+- #forge:crops/jute
+- #forge:crops/kale
+- #forge:crops/kenaf
+- #forge:crops/kiwi
+- #forge:crops/kohlrabi
+- #forge:crops/leek
+- #forge:crops/lentil
+- #forge:crops/lettuce
+- #forge:crops/millet
+- #forge:crops/mulberry
+- #forge:crops/mustardseeds
+- #forge:crops/oat
+- #forge:crops/oats
+- #forge:crops/okra
+- #forge:crops/onion
+- #forge:crops/parsnip
+- #forge:crops/peanut
+- #forge:crops/pea
+- #forge:crops/peas
+- #forge:crops/pineapple
+- #forge:crops/quinoa
+- #forge:crops/radish
+- #forge:crops/raspberry
+- #forge:crops/rhubarb
+- #forge:crops/rice
+- #forge:crops/rutabaga
+- #forge:crops/rye
+- #forge:crops/scallion
+- #forge:crops/sesameseeds
+- #forge:crops/sisal
+- #forge:crops/soybean
+- #forge:crops/spiceleaf
+- #forge:crops/spinach
+- #forge:crops/strawberry
+- #forge:crops/sweetpotato
+- #forge:crops/sweet_potato
+- #forge:crops/taro
+- #forge:crops/tealeaf
+- #forge:crops/tomatillo
+- #forge:crops/tomato
+- #forge:crops/turnip
+- #forge:crops/waterchestnut
+- #forge:crops/whitemushroom
+- #forge:crops/wintersquash
+- #forge:crops/zucchini
+
+#forge:vinegar_ingredients/cranberry
+- pamhc2crops:cranberryitem
+
+#mekanism:dirty_dusts/copper
+- alltheores:dirty_copper_dust
+
+#forge:crops/blueberry
+- pamhc2crops:blueberryitem
+
+#forge:vinegar_ingredients/lemon
+- pamhc2trees:lemonitem
+
+#tconstruct:casts/red_sand
+- tconstruct:blank_red_sand_cast
+- tconstruct:ingot_red_sand_cast
+- tconstruct:nugget_red_sand_cast
+- tconstruct:gem_red_sand_cast
+- tconstruct:rod_red_sand_cast
+- tconstruct:repair_kit_red_sand_cast
+- tconstruct:plate_red_sand_cast
+- tconstruct:gear_red_sand_cast
+- tconstruct:coin_red_sand_cast
+- tconstruct:pickaxe_head_red_sand_cast
+- tconstruct:small_axe_head_red_sand_cast
+- tconstruct:small_blade_red_sand_cast
+- tconstruct:hammer_head_red_sand_cast
+- tconstruct:broad_axe_head_red_sand_cast
+- tconstruct:broad_blade_red_sand_cast
+- tconstruct:tool_binding_red_sand_cast
+- tconstruct:large_plate_red_sand_cast
+- tconstruct:tool_handle_red_sand_cast
+- tconstruct:tough_handle_red_sand_cast
+
+#quark:boatable_chests
+- bamboo_blocks:bamboo_chest
+
+#tconstruct:autosmelt_blacklist
+
+#forge:small_ores/copper
+- survivalist:copper_ore_rock
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- decorative_blocks:birch_beam
+
+#forge:vegetables/avocado
+- pamhc2trees:avocadoitem
+
+#tconstruct:slimy_planks
+- tconstruct:greenheart_planks
+- tconstruct:skyroot_planks
+- tconstruct:bloodshroom_planks
+
+#forge:mushrooms/redmushroom
+- minecraft:red_mushroom
+
+#forge:fruits/strawberry
+- pamhc2crops:strawberryitem
+
+#forge:nuts
+- #forge:nuts/almond
+- #forge:nuts/cashew
+- #forge:nuts/chestnut
+- #forge:nuts/hazelnut
+- #forge:nuts/pecan
+- #forge:nuts/pinenut
+- #forge:nuts/pistachio
+- #forge:nuts/walnut
+- #forge:nuts/peanut
+
+#forge:dusts/platinum
+- alltheores:platinum_dust
+
+#forge:peppers/chilipepper
+- pamhc2crops:chilipepperitem
+
+#forge:small_ores/aluminum
+- survivalist:aluminum_ore_rock
+
+#forge:onions/scallion
+- pamhc2crops:scallionitem
+
+#survivalist:ore_rocks/copper
+- survivalist:copper_ore_rock
+
+#forge:fruits/orange
+- pamhc2trees:orangeitem
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+- #forge:seeds/agave
+- #forge:seeds/amaranth
+- #forge:seeds/arrowroot
+- #forge:seeds/artichoke
+- #forge:seeds/asparagus
+- #forge:seeds/barley
+- #forge:seeds/bean
+- #forge:seeds/bellpepper
+- #forge:seeds/blackberry
+- #forge:seeds/blueberry
+- #forge:seeds/broccoli
+- #forge:seeds/brusselsprout
+- #forge:seeds/cabbage
+- #forge:seeds/cactusfruit
+- #forge:seeds/candleberry
+- #forge:seeds/cantaloupe
+- #forge:seeds/cassava
+- #forge:seeds/cauliflower
+- #forge:seeds/celery
+- #forge:seeds/chickpea
+- #forge:seeds/chilipepper
+- #forge:seeds/coffeebean
+- #forge:seeds/corn
+- #forge:seeds/cotton
+- #forge:seeds/cranberry
+- #forge:seeds/cucumber
+- #forge:seeds/eggplant
+- #forge:seeds/elderberry
+- #forge:seeds/flax
+- #forge:seeds/garlic
+- #forge:seeds/ginger
+- #forge:seeds/grape
+- #forge:seeds/greengrape
+- #forge:seeds/huckleberry
+- #forge:seeds/jicama
+- #forge:seeds/juniperberry
+- #forge:seeds/jute
+- #forge:seeds/kale
+- #forge:seeds/kenaf
+- #forge:seeds/kiwi
+- #forge:seeds/kohlrabi
+- #forge:seeds/leek
+- #forge:seeds/lentil
+- #forge:seeds/lettuce
+- #forge:seeds/millet
+- #forge:seeds/mulberry
+- #forge:seeds/mustardseeds
+- #forge:seeds/oats
+- #forge:seeds/okra
+- #forge:seeds/onion
+- #forge:seeds/parsnip
+- #forge:seeds/peanut
+- #forge:seeds/peas
+- #forge:seeds/pineapple
+- #forge:seeds/quinoa
+- #forge:seeds/radish
+- #forge:seeds/raspberry
+- #forge:seeds/rhubarb
+- #forge:seeds/rice
+- #forge:seeds/rutabaga
+- #forge:seeds/rye
+- #forge:seeds/scallion
+- #forge:seeds/sesameseeds
+- #forge:seeds/sisal
+- #forge:seeds/soybean
+- #forge:seeds/spiceleaf
+- #forge:seeds/spinach
+- #forge:seeds/strawberry
+- #forge:seeds/sweetpotato
+- #forge:seeds/taro
+- #forge:seeds/tealeaf
+- #forge:seeds/tomatillo
+- #forge:seeds/tomato
+- #forge:seeds/turnip
+- #forge:seeds/waterchestnut
+- #forge:seeds/whitemushroom
+- #forge:seeds/wintersquash
+- #forge:seeds/zucchini
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- decorative_blocks:oak_beam
+
+#tconstruct:casts/single_use/tough_handle
+- tconstruct:tough_handle_sand_cast
+- tconstruct:tough_handle_red_sand_cast
+
+#forge:paper_plants/blackberry
+- pamhc2crops:blackberryitem
+
+#mekanism:crystals/osmium
+- alltheores:osmium_crystal
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#forge:vegetables/peas
+- pamhc2crops:peasitem
+
+#forge:storage_blocks/slimesteel
+- tconstruct:slimesteel_block
+
+#forge:crops/mango
+- pamhc2trees:mangoitem
+
+#forge:slimeballs
+- minecraft:slime_ball
+- #forge:slimeball/earth
+- #forge:slimeball/sky
+- #forge:slimeball/ichor
+- #forge:slimeball/ender
+- #forge:slimeball/blood
+
+#survivalist:rocks
+- survivalist:stone_rock
+- survivalist:diorite_rock
+- survivalist:andesite_rock
+- survivalist:granite_rock
+
+#tconstruct:casts/single_use/gear
+- tconstruct:gear_sand_cast
+- tconstruct:gear_red_sand_cast
+
+#forge:ores/nickel
+- alltheores:ore_nickel
+
+#forge:vegetables/garlic
+- pamhc2crops:garlicitem
+
+#forge:crops/candlenut
+- pamhc2trees:candlenutitem
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- decorative_blocks:jungle_beam
+
+#tconstruct:modifiable/harvest/stone
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- #tconstruct:guides
+
+#forge:fruits/raspberries
+- pamhc2crops:raspberryitem
+
+#forge:vegetables/zucchini
+- pamhc2crops:zucchiniitem
+
+#forge:fruits/lychee
+- pamhc2trees:lycheeitem
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- decorative_blocks:spruce_beam
+
+#forge:ore_rocks/lead
+- survivalist:lead_ore_rock
+
+#forge:flour_plants/quinoa
+- pamhc2crops:quinoaitem
+
+#forge:crops/maple
+- pamhc2trees:maplesyrupitem
+
+#forge:grain/bean
+- pamhc2crops:beanitem
+
+#forge:protein/corn
+- pamhc2crops:cornitem
+
+#forge:fence_gates/wooden
+- bamboo_blocks:bamboo_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- tconstruct:greenheart_fence_gate
+- tconstruct:skyroot_fence_gate
+- tconstruct:bloodshroom_fence_gate
+
+#forge:crops/whitemushroom
+- pamhc2crops:whitemushroomitem
+
+#forge:ores/aluminum
+- alltheores:ore_aluminum
+
+#forge:vinegar_ingredients/peach
+- pamhc2trees:peachitem
+
+#forge:ores/uranium
+- alltheores:ore_uranium
+
+#forge:fruits/soursop
+- pamhc2trees:soursopitem
+
+#forge:crops/lentil
+- pamhc2crops:lentilitem
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+
+#forge:leafyvegetables/kale
+- pamhc2crops:kaleitem
+
+#mekanism:clumps
+- #mekanism:clumps/aluminum
+- #mekanism:clumps/copper
+- #mekanism:clumps/lead
+- #mekanism:clumps/nickel
+- #mekanism:clumps/osmium
+- #mekanism:clumps/platinum
+- #mekanism:clumps/silver
+- #mekanism:clumps/tin
+- #mekanism:clumps/uranium
+- #mekanism:clumps/zinc
+
+#forge:grain
+- #forge:grain/amaranth
+- #forge:grain/barley
+- #forge:grain/bean
+- #forge:grain/chickpea
+- #forge:grain/corn
+- #forge:grain/lentil
+- #forge:grain/millet
+- #forge:grain/oat
+- #forge:grain/oats
+- #forge:grain/quinoa
+- #forge:grain/rice
+- #forge:grain/rye
+- #forge:grain/soybean
+- #forge:grain/wheat
+
+#forge:ingots/lead
+- alltheores:lead_ingot
+
+#forge:vinegar_ingredients/millet
+- pamhc2crops:milletitem
+
+#forge:seeds/artichoke
+- pamhc2crops:artichokeseeditem
+
+#forge:crops/zucchini
+- pamhc2crops:zucchiniitem
+
+#forge:flour_plants/arrowroot
+- pamhc2crops:arrowrootitem
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#forge:storage_blocks/cobalt
+- tconstruct:cobalt_block
+
+#forge:seeds/corn
+- pamhc2crops:cornseeditem
+
+#survivalist:ore_rocks/tin
+- survivalist:tin_ore_rock
+
+#forge:dusts/tin
+- alltheores:tin_dust
+
+#forge:seeds/strawberry
+- pamhc2crops:strawberryseeditem
+
+#forge:seeds/rye
+- pamhc2crops:ryeseeditem
+
+#forge:vinegar_ingredients/raspberry
+- pamhc2crops:raspberryitem
+
+#forge:vinegar_ingredients/mulberry
+- pamhc2crops:mulberryitem
+
+#forge:salad_ingredients/broccoli
+- pamhc2crops:broccoliitem
+
+#forge:nuggets/rose_gold
+- tconstruct:rose_gold_nugget
+
+#forge:peppers
+- #forge:peppers/bellpepper
+- #forge:peppers/chilipepper
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- #forge:ores/aluminum
+- #forge:ores/copper
+- #forge:ores/lead
+- #forge:ores/nickel
+- #forge:ores/osmium
+- #forge:ores/platinum
+- #forge:ores/silver
+- #forge:ores/tin
+- #forge:ores/zinc
+- #forge:ores/uranium
+- create:copper_ore
+- create:zinc_ore
+- #forge:ores/cobalt
+- #forge:ores/copper
+
+#forge:rootvegetables/cassava
+- pamhc2crops:cassavaitem
+
+#forge:crops/cactusfruit
+- pamhc2crops:cactusfruititem
+
+#tconstruct:casts/single_use/small_axe_head
+- tconstruct:small_axe_head_sand_cast
+- tconstruct:small_axe_head_red_sand_cast
+
+#forge:seeds/flax
+- pamhc2crops:flaxseeditem
+
+#forge:rods/wooden
+- minecraft:stick
+
+#tconstruct:modifiable/durability
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:flint_and_bronze
+
+#forge:crops/agave
+- pamhc2crops:agaveitem
+
+#forge:seeds/onion
+- pamhc2crops:onionseeditem
+
+#forge:vinegar_ingredients/lychee
+- pamhc2trees:lycheeitem
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#survivalist:nuggets/silver
+- survivalist:silver_nugget
+
+#forge:vegetables/cauliflower
+- pamhc2crops:caulifloweritem
+
+#forge:rocks/stone
+- survivalist:stone_rock
+
+#tconstruct:parts
+- tconstruct:pickaxe_head
+- tconstruct:hammer_head
+- tconstruct:small_axe_head
+- tconstruct:broad_axe_head
+- tconstruct:small_blade
+- tconstruct:broad_blade
+- tconstruct:tool_binding
+- tconstruct:large_plate
+- tconstruct:tool_handle
+- tconstruct:tough_handle
+- tconstruct:repair_kit
+
+#forge:dusts/lead
+- alltheores:lead_dust
+
+#forge:vinegar_ingredients/strawberries
+- pamhc2crops:strawberryitem
+
+#forge:nuts/pistachio
+- pamhc2trees:pistachioitem
+
+#forge:small_ores/iron
+- survivalist:iron_ore_rock
+
+#mekanism:dirty_dusts/nickel
+- alltheores:dirty_nickel_dust
+
+#forge:seeds/lentil
+- pamhc2crops:lentilseeditem
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+
+#forge:nuggets
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+- #forge:nuggets/aluminum
+- #forge:nuggets/copper
+- #forge:nuggets/lead
+- #forge:nuggets/nickel
+- #forge:nuggets/osmium
+- #forge:nuggets/platinum
+- #forge:nuggets/silver
+- #forge:nuggets/tin
+- #forge:nuggets/zinc
+- #forge:nuggets/uranium
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+- morecreatestuffs:platinum_nugget
+- #forge:nuggets/copper
+- #forge:nuggets/cobalt
+- #forge:nuggets/slimesteel
+- #forge:nuggets/silicon_bronze
+- #forge:nuggets/rose_gold
+- #forge:nuggets/pig_iron
+- #forge:nuggets/queens_slime
+- #forge:nuggets/manyullyn
+- #forge:nuggets/hepatizon
+- #forge:nuggets/soulsteel
+- #forge:nuggets/knightslime
+
+#forge:plates/zinc
+- createdeco:zinc_sheet
+
+#forge:plates/netherite
+- createdeco:netherite_sheet
+
+#forge:salad_ingredients/peas
+- pamhc2crops:peasitem
+
+#mekanism:clumps/tin
+- alltheores:tin_clump
+
+#forge:flour_plants/millet
+- pamhc2crops:milletitem
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#mekanism:crystals/aluminum
+- alltheores:aluminum_crystal
+
+#forge:crops/cantaloupe
+- pamhc2crops:cantaloupeitem
+
+#forge:vegetables/kale
+- pamhc2crops:kaleitem
+
+#forge:rootvegetables
+- #forge:rootvegetables/arrowroot
+- #forge:rootvegetables/cassava
+- #forge:rootvegetables/garlic
+- #forge:rootvegetables/jicama
+- #forge:rootvegetables/kohlrabi
+- #forge:rootvegetables/leek
+- #forge:rootvegetables/onion
+- #forge:rootvegetables/parsnip
+- #forge:rootvegetables/peanut
+- #forge:rootvegetables/radish
+- #forge:rootvegetables/rhubarb
+- #forge:rootvegetables/rutabaga
+- #forge:rootvegetables/scallion
+- #forge:rootvegetables/sweetpotato
+- #forge:rootvegetables/sweet_potato
+- #forge:rootvegetables/taro
+- #forge:rootvegetables/turnip
+- #forge:rootvegetables/waterchestnut
+
+#mekanism:crystals/lead
+- alltheores:lead_crystal
+
+#forge:rocks/andesite
+- survivalist:andesite_rock
+
+#forge:vinegar_ingredients/persimmon
+- pamhc2trees:persimmonitem
+
+#forge:crops/plum
+- pamhc2trees:plumitem
+
+#forge:crops/peppercorn
+- pamhc2trees:peppercornitem
+
+#create:upright_on_belt
+- create:blaze_cake_base
+- create:blaze_cake
+- create:creative_blaze_cake
+- create:builders_tea
+- minecraft:glass_bottle
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:honey_bottle
+- minecraft:cake
+- abundance:lavender_tea?
+- atmospheric:aloe_gel_bottle?
+- atmospheric:strawberry_banana_smoothie?
+- atmospheric:yucca_juice?
+- autumnity:sap_bottle?
+- autumnity:syrup_bottle?
+- bayou_blues:gooseberry_jam?
+- bayou_blues:gooseberry_juice?
+- betterbeekeeping:bright_honey_bottle?
+- betterbeekeeping:cool_honey_bottle?
+- betterbeekeeping:lively_honey_bottle?
+- betterbeekeeping:spicy_honey_bottle?
+- betterbeekeeping:strange_honey_bottle?
+- betterbeekeeping:warm_honey_bottle?
+- buzzier_bees:bee_bottle?
+- buzzier_bees:endermite_bottle?
+- buzzier_bees:silverfish_bottle?
+- endergetic:puffbug_bottle?
+- neapolitan:adzuki_milkshake?
+- neapolitan:banana_milkshake?
+- neapolitan:chocolate_milkshake?
+- neapolitan:milk_bottle?
+- neapolitan:mint_milkshake?
+- neapolitan:strawberry_milkshake?
+- twilightforest:fiery_blood?
+- twilightforest:fiery_tears?
+- upgrade_aquatic:mulberry_jam_bottle?
+
+#forge:storage_blocks/nickel
+- alltheores:nickel_block
+
+#forge:rootvegetables/scallion
+- pamhc2crops:scallionitem
+
+#forge:crops/pea
+- pamhc2crops:peasitem
+
+#survivalist:rock_sources/copper
+- #forge:ores/copper?
+
+#tconstruct:modifiable
+- #tconstruct:modifiable/multipart
+- #tconstruct:modifiable/durability
+- #tconstruct:modifiable/melee_or_harvest
+- #tconstruct:modifiable/aoe
+- #tconstruct:modifiable/held
+
+#forge:fruits/starfruit
+- pamhc2trees:starfruititem
+
+#forge:crops/walnut
+- pamhc2trees:walnutitem
+
+#forge:crops/taro
+- pamhc2crops:taroitem
+
+#forge:crops/soybean
+- pamhc2crops:soybeanitem
+
+#forge:vinegar_ingredients/blackberries
+- pamhc2crops:blackberryitem
+
+#forge:vegetables/taro
+- pamhc2crops:taroitem
+
+#forge:crops/lemon
+- pamhc2trees:lemonitem
+
+#forge:glass/red
+- minecraft:red_stained_glass
+- tconstruct:red_clear_stained_glass
+
+#forge:crops/persimmon
+- pamhc2trees:persimmonitem
+
+#forge:seeds/mulberry
+- pamhc2crops:mulberryseeditem
+
+#forge:slimeball/blood
+- tconstruct:blood_slime_ball
+
+#forge:ingots/soulsteel
+- tconstruct:soulsteel_ingot
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:dusts/uranium
+- alltheores:uranium_dust
+
+#forge:carbs/sweetpotato
+- pamhc2crops:sweetpotatoitem
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+
+#forge:vegetables/waterchestnut
+- pamhc2crops:waterchestnutitem
+
+#tconstruct:casts/single_use
+- #tconstruct:casts/single_use/blank
+- #tconstruct:casts/single_use/ingot
+- #tconstruct:casts/single_use/nugget
+- #tconstruct:casts/single_use/gem
+- #tconstruct:casts/single_use/rod
+- #tconstruct:casts/single_use/repair_kit
+- #tconstruct:casts/single_use/plate
+- #tconstruct:casts/single_use/gear
+- #tconstruct:casts/single_use/coin
+- #tconstruct:casts/single_use/pickaxe_head
+- #tconstruct:casts/single_use/small_axe_head
+- #tconstruct:casts/single_use/small_blade
+- #tconstruct:casts/single_use/hammer_head
+- #tconstruct:casts/single_use/broad_axe_head
+- #tconstruct:casts/single_use/broad_blade
+- #tconstruct:casts/single_use/tool_binding
+- #tconstruct:casts/single_use/large_plate
+- #tconstruct:casts/single_use/tool_handle
+- #tconstruct:casts/single_use/tough_handle
+
+#tconstruct:seeds
+- #forge:seeds
+- minecraft:carrot
+- minecraft:potato
+- minecraft:nether_wart
+
+#forge:fiber
+- #forge:fiber/cotton
+- #forge:fiber/flax
+- #forge:fiber/jute
+- #forge:fiber/kenaf
+- #forge:fiber/sisal
+
+#forge:chests/trapped
+- bamboo_blocks:bamboo_trapped_chest
+- minecraft:trapped_chest
+
+#forge:seeds/wintersquash
+- pamhc2crops:wintersquashseeditem
+
+#tconstruct:scorched_blocks
+- tconstruct:scorched_stone
+- tconstruct:polished_scorched_stone
+- tconstruct:scorched_bricks
+- tconstruct:scorched_road
+- tconstruct:chiseled_scorched_bricks
+
+#forge:vegetables/okra
+- pamhc2crops:okraitem
+
+#forge:seeds/rhubarb
+- pamhc2crops:rhubarbseeditem
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:peppers/bellpepper
+- pamhc2crops:bellpepperitem
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+- tconstruct:clear_glass_pane
+
+#forge:fruits/passionfruit
+- pamhc2trees:passionfruititem
+
+#forge:ingots/osmium
+- alltheores:osmium_ingot
+
+#forge:fruits/greengrape
+- pamhc2crops:greengrapeitem
+
+#forge:seeds/garlic
+- pamhc2crops:garlicseeditem
+
+#forge:sticks
+- minecraft:stick
+
+#mekanism:dirty_dusts/zinc
+- alltheores:dirty_zinc_dust
+
+#createautomated:ore_pieces/gold
+- createautomated:gold_ore_piece
+
+#forge:fiber/kenaf
+- pamhc2crops:kenafitem
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#tconstruct:seared_bricks
+- tconstruct:seared_bricks
+- tconstruct:seared_fancy_bricks
+- tconstruct:seared_triangle_bricks
+
+#forge:grain/oat
+- pamhc2crops:oatsitem
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#forge:ingots/manyullyn
+- tconstruct:manyullyn_ingot
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#forge:rootvegetables/leek
+- pamhc2crops:leekitem
+
+#forge:ingots/knightslime
+- tconstruct:knightslime_ingot
+
+#forge:ingots/uranium
+- alltheores:uranium_ingot
+
+#forge:crops/chilipepper
+- pamhc2crops:chilipepperitem
+
+#forge:crops/jute
+- pamhc2crops:juteitem
+
+#forge:seeds/cranberry
+- pamhc2crops:cranberryseeditem
+
+#forge:fruits/melon
+- minecraft:melon_slice
+
+#forge:rootvegetables/kohlrabi
+- pamhc2crops:kohlrabiitem
+
+#forge:fruits/sweet_berries
+- minecraft:sweet_berries
+
+#tconstruct:casts/single_use/gem
+- tconstruct:gem_sand_cast
+- tconstruct:gem_red_sand_cast
+
+#mekanism:clumps/uranium
+- alltheores:uranium_clump
+
+#forge:seeds/arrowroot
+- pamhc2crops:arrowrootseeditem
+
+#forge:crops/okra
+- pamhc2crops:okraitem
+
+#forge:flour_plants/chestnut
+- pamhc2trees:chestnutitem
+
+#tconstruct:casts/single_use/broad_blade
+- tconstruct:broad_blade_sand_cast
+- tconstruct:broad_blade_red_sand_cast
+
+#forge:fruits/pawpaw
+- pamhc2trees:pawpawitem
+
+#forge:ores/tin
+- alltheores:ore_tin
+
+#forge:small_ores/lead
+- survivalist:lead_ore_rock
+
+#tconstruct:casts/single_use/hammer_head
+- tconstruct:hammer_head_sand_cast
+- tconstruct:hammer_head_red_sand_cast
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- bamboo_blocks:bamboo_sign
+- tconstruct:greenheart_sign
+- tconstruct:skyroot_sign
+- tconstruct:bloodshroom_sign
+
+#waystones:sharestone
+- waystones:sharestone
+- waystones:white_sharestone
+- waystones:orange_sharestone
+- waystones:magenta_sharestone
+- waystones:light_blue_sharestone
+- waystones:yellow_sharestone
+- waystones:lime_sharestone
+- waystones:pink_sharestone
+- waystones:gray_sharestone
+- waystones:light_gray_sharestone
+- waystones:cyan_sharestone
+- waystones:purple_sharestone
+- waystones:blue_sharestone
+- waystones:brown_sharestone
+- waystones:green_sharestone
+- waystones:red_sharestone
+- waystones:black_sharestone
+
+#forge:weak_ores/iron
+- survivalist:iron_ore_rock
+
+#forge:storage_blocks/osmium
+- alltheores:osmium_block
+
+#createautomated:ore_pieces/copper
+- createautomated:copper_ore_piece
+
+#forge:rootvegetables/waterchestnut
+- pamhc2crops:waterchestnutitem
+
+#forge:crops/chestnut
+- pamhc2trees:chestnutitem
+
+#forge:wither_bones
+- tconstruct:necrotic_bone
+
+#forge:crops/barley
+- pamhc2crops:barleyitem
+
+#forge:fiber/sisal
+- pamhc2crops:sisalitem
+
+#forge:crops/raspberry
+- pamhc2crops:raspberryitem
+
+#forge:flour_plants/pea
+- pamhc2crops:peasitem
+
+#forge:crops/cabbage
+- pamhc2crops:cabbageitem
+
+#forge:vinegar_ingredients/papaya
+- pamhc2trees:papayaitem
+
+#simplyspawners:spawn_eggs
+- minecraft:bat_spawn_egg
+- minecraft:bee_spawn_egg
+- minecraft:blaze_spawn_egg
+- minecraft:cat_spawn_egg
+- minecraft:cave_spider_spawn_egg
+- minecraft:chicken_spawn_egg
+- minecraft:cod_spawn_egg
+- minecraft:cow_spawn_egg
+- minecraft:creeper_spawn_egg
+- minecraft:dolphin_spawn_egg
+- minecraft:donkey_spawn_egg
+- minecraft:drowned_spawn_egg
+- minecraft:elder_guardian_spawn_egg
+- minecraft:enderman_spawn_egg
+- minecraft:endermite_spawn_egg
+- minecraft:evoker_spawn_egg
+- minecraft:fox_spawn_egg
+- minecraft:ghast_spawn_egg
+- minecraft:guardian_spawn_egg
+- minecraft:hoglin_spawn_egg
+- minecraft:horse_spawn_egg
+- minecraft:husk_spawn_egg
+- minecraft:llama_spawn_egg
+- minecraft:magma_cube_spawn_egg
+- minecraft:mooshroom_spawn_egg
+- minecraft:mule_spawn_egg
+- minecraft:ocelot_spawn_egg
+- minecraft:panda_spawn_egg
+- minecraft:parrot_spawn_egg
+- minecraft:phantom_spawn_egg
+- minecraft:pig_spawn_egg
+- minecraft:piglin_spawn_egg
+- minecraft:piglin_brute_spawn_egg
+- minecraft:pillager_spawn_egg
+- minecraft:polar_bear_spawn_egg
+- minecraft:pufferfish_spawn_egg
+- minecraft:rabbit_spawn_egg
+- minecraft:ravager_spawn_egg
+- minecraft:salmon_spawn_egg
+- minecraft:sheep_spawn_egg
+- minecraft:shulker_spawn_egg
+- minecraft:silverfish_spawn_egg
+- minecraft:skeleton_spawn_egg
+- minecraft:skeleton_horse_spawn_egg
+- minecraft:slime_spawn_egg
+- minecraft:spider_spawn_egg
+- minecraft:squid_spawn_egg
+- minecraft:stray_spawn_egg
+- minecraft:strider_spawn_egg
+- minecraft:trader_llama_spawn_egg
+- minecraft:tropical_fish_spawn_egg
+- minecraft:turtle_spawn_egg
+- minecraft:vex_spawn_egg
+- minecraft:villager_spawn_egg
+- minecraft:vindicator_spawn_egg
+- minecraft:wandering_trader_spawn_egg
+- minecraft:witch_spawn_egg
+- minecraft:wither_skeleton_spawn_egg
+- minecraft:wolf_spawn_egg
+- minecraft:zoglin_spawn_egg
+- minecraft:zombie_spawn_egg
+- minecraft:zombie_horse_spawn_egg
+- minecraft:zombie_villager_spawn_egg
+- minecraft:zombified_piglin_spawn_egg
+
+#forge:flour_plants/rice
+- pamhc2crops:riceitem
+
+#survivalist:rocks/granite
+- survivalist:granite_rock
+
+#forge:crops/kale
+- pamhc2crops:kaleitem
+
+#tconstruct:slimy_logs
+- #tconstruct:greenheart_logs
+- #tconstruct:skyroot_logs
+- #tconstruct:bloodshroom_logs
+
+#forge:crops/blackberry
+- pamhc2crops:blackberryitem
+
+#forge:glass/green
+- minecraft:green_stained_glass
+- tconstruct:green_clear_stained_glass
+
+#forge:seeds/blueberry
+- pamhc2crops:blueberryseeditem
+
+#forge:flour_plants/peas
+- pamhc2crops:peasitem
+
+#forge:crops/sesameseeds
+- pamhc2crops:sesameseedsitem
+
+#forge:seeds/cactusfruit
+- pamhc2crops:cactusfruitseeditem
+
+#forge:vegetables/chilipepper
+- pamhc2crops:chilipepperitem
+
+#forge:seeds/cauliflower
+- pamhc2crops:cauliflowerseeditem
+
+#survivalist:rock_sources/tin
+- #forge:ores/tin?
+
+#forge:nuggets/hepatizon
+- tconstruct:hepatizon_nugget
+
+#forge:end_stones
+- minecraft:end_stone
+
+#biomesoplenty:fir_logs
+- decorative_blocks:fir_beam
+
+#survivalist:dough
+- survivalist:dough
+
+#forge:rootvegetables/turnip
+- pamhc2crops:turnipitem
+
+#forge:ingots/aluminum
+- alltheores:aluminum_ingot
+
+#forge:rootvegetables/jicama
+- pamhc2crops:jicamaitem
+
+#forge:vinegar_ingredients/blackberry
+- pamhc2crops:blackberryitem
+
+#forge:fences/wooden
+- bamboo_blocks:bamboo_fence
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+
+#forge:storage_blocks
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/aluminum
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/lead
+- #forge:storage_blocks/nickel
+- #forge:storage_blocks/osmium
+- #forge:storage_blocks/platinum
+- #forge:storage_blocks/silver
+- #forge:storage_blocks/tin
+- #forge:storage_blocks/zinc
+- #forge:storage_blocks/uranium
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/cobalt
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/soulsteel
+- #forge:storage_blocks/knightslime
+
+#mekanism:shards/aluminum
+- alltheores:aluminum_shard
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+
+#forge:seeds/peas
+- pamhc2crops:peasseeditem
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:ingots/brick
+- minecraft:brick
+
+#forge:saplings
+- minecraft:oak_sapling
+- minecraft:birch_sapling
+- minecraft:spruce_sapling
+- minecraft:jungle_sapling
+- minecraft:dark_oak_sapling
+- minecraft:acacia_sapling
+
+#forge:crops/peach
+- pamhc2trees:peachitem
+
+#tconstruct:modifiable/harvest/primary
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+
+#forge:crops/amaranth
+- pamhc2crops:amaranthitem
+
+#forge:nuggets/slimesteel
+- tconstruct:slimesteel_nugget
+
+#survivalist:ore_rocks/iron
+- survivalist:iron_ore_rock
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#forge:egg
+- #forge:egg/avocado
+- #forge:egg/banana
+- #forge:egg/flax
+
+#survivalist:rock_sources/silver
+- #forge:ores/silver?
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+
+#forge:vegetables/tomato
+- pamhc2crops:tomatoitem
+
+#forge:fruits/rambutan
+- pamhc2trees:rambutanitem
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #tconstruct:slimy_logs
+
+#forge:fruits/apricot
+- pamhc2trees:apricotitem
+
+#tconstruct:casts/multi_use/ingot
+- tconstruct:ingot_cast
+
+#forge:rootvegetables/sweetpotato
+- pamhc2crops:sweetpotatoitem
+
+#forge:seeds/rice
+- pamhc2crops:riceseeditem
+
+#createautomated:crushed_prismarine/vanilla
+- createautomated:crushed_prismarine
+
+#tconstruct:planklike
+- #minecraft:planks
+- tconstruct:lavawood
+- tconstruct:blazewood
+- tconstruct:nahuatl
+
+#forge:crops/turnip
+- pamhc2crops:turnipitem
+
+#forge:crops/cinnamon
+- pamhc2trees:cinnamonitem
+
+#forge:nuts/chestnut
+- pamhc2trees:chestnutitem
+
+#forge:vinegar_ingredients/rambutan
+- pamhc2trees:rambutanitem
+
+#forge:seeds/ginger
+- pamhc2crops:gingerseeditem
+
+#forge:nuggets/queens_slime
+- tconstruct:queens_slime_nugget
+
+#forge:fruits/guava
+- pamhc2trees:guavaitem
+
+#forge:vegetables/radish
+- pamhc2crops:radishitem
+
+#mekanism:crystals/tin
+- alltheores:tin_crystal
+
+#forge:fruits/huckleberry
+- pamhc2crops:huckleberryitem
+
+#forge:paper_plants/okra
+- pamhc2crops:okraitem
+
+#mekanism:dirty_dusts/aluminum
+- alltheores:dirty_aluminum_dust
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#botanypots:botany_pots
+- botanypots:botany_pot
+- botanypots:white_botany_pot
+- botanypots:orange_botany_pot
+- botanypots:magenta_botany_pot
+- botanypots:light_blue_botany_pot
+- botanypots:yellow_botany_pot
+- botanypots:lime_botany_pot
+- botanypots:pink_botany_pot
+- botanypots:gray_botany_pot
+- botanypots:light_gray_botany_pot
+- botanypots:cyan_botany_pot
+- botanypots:purple_botany_pot
+- botanypots:blue_botany_pot
+- botanypots:brown_botany_pot
+- botanypots:green_botany_pot
+- botanypots:red_botany_pot
+- botanypots:black_botany_pot
+- botanypots:hopper_botany_pot
+- botanypots:hopper_white_botany_pot
+- botanypots:hopper_orange_botany_pot
+- botanypots:hopper_magenta_botany_pot
+- botanypots:hopper_light_blue_botany_pot
+- botanypots:hopper_yellow_botany_pot
+- botanypots:hopper_lime_botany_pot
+- botanypots:hopper_pink_botany_pot
+- botanypots:hopper_gray_botany_pot
+- botanypots:hopper_light_gray_botany_pot
+- botanypots:hopper_cyan_botany_pot
+- botanypots:hopper_purple_botany_pot
+- botanypots:hopper_blue_botany_pot
+- botanypots:hopper_brown_botany_pot
+- botanypots:hopper_green_botany_pot
+- botanypots:hopper_red_botany_pot
+- botanypots:hopper_black_botany_pot
+
+#forge:seeds/chickpea
+- pamhc2crops:chickpeaseeditem
+
+#forge:crops/vanillabean
+- pamhc2trees:vanillabeanitem
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#forge:rootvegetables/arrowroot
+- pamhc2crops:arrowrootitem
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#forge:mushrooms/brownmushroom
+- minecraft:brown_mushroom
+
+#forge:crops/pistachio
+- pamhc2trees:pistachioitem
+
+#forge:fruits/kiwi
+- pamhc2crops:kiwiitem
+
+#forge:crops/kiwi
+- pamhc2crops:kiwiitem
+
+#forge:seeds/bellpepper
+- pamhc2crops:bellpepperseeditem
+
+#forge:flour_plants/banana
+- pamhc2trees:bananaitem
+
+#forge:storage_blocks/hepatizon
+- tconstruct:hepatizon_block
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#forge:vinegar_ingredients/tomato
+- pamhc2crops:tomatoitem
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- bamboo_blocks:soul_bamboo_torch
+
+#forge:ingots/zinc
+- alltheores:zinc_ingot
+- create:zinc_ingot
+
+#forge:crops/papaya
+- pamhc2trees:papayaitem
+
+#forge:glass/black
+- minecraft:black_stained_glass
+- tconstruct:black_clear_stained_glass
+
+#forge:flour_plants/rutabaga
+- pamhc2crops:rutabagaitem
+
+#forge:vinegar_ingredients/cherry
+- pamhc2trees:cherryitem
+
+#forge:crops/olive
+- pamhc2trees:oliveitem
+
+#tconstruct:casts/multi_use/pickaxe_head
+- tconstruct:pickaxe_head_cast
+
+#forge:seeds/coffeebean
+- pamhc2crops:coffeebeanseeditem
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+
+#tconstruct:casts/multi_use/gear
+- tconstruct:gear_cast
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#forge:onions/onion
+- pamhc2crops:onionitem
+
+#mekanism:shards/silver
+- alltheores:silver_shard
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- bamboo_blocks:bamboo_stairs
+- tconstruct:greenheart_planks_stairs
+- tconstruct:skyroot_planks_stairs
+- tconstruct:bloodshroom_planks_stairs
+
+#survivalist:rocks/stone
+- survivalist:stone_rock
+
+#tconstruct:casts/multi_use/small_axe_head
+- tconstruct:small_axe_head_cast
+
+#forge:flour_plants/peanut
+- pamhc2crops:peanutitem
+
+#forge:crops/jicama
+- pamhc2crops:jicamaitem
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- bamboo_blocks:bamboo_button
+- tconstruct:greenheart_button
+- tconstruct:skyroot_button
+- tconstruct:bloodshroom_button
+
+#biomesoplenty:umbran_logs
+- decorative_blocks:umbran_beam
+
+#forge:vinegar_ingredients/breadfruit
+- pamhc2trees:breadfruititem
+
+#tconstruct:tanks
+- #tconstruct:seared_tanks
+- #tconstruct:scorched_tanks
+
+#forge:crops/pecan
+- pamhc2trees:pecanitem
+
+#forge:crops/breadfruit
+- pamhc2trees:breadfruititem
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#forge:leafyvegetables
+- #forge:leafyvegetables/cabbage
+- #forge:leafyvegetables/kale
+- #forge:leafyvegetables/lettuce
+- #forge:leafyvegetables/spinach
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#forge:crops/onion
+- pamhc2crops:onionitem
+
+#forge:vinegar_ingredients/date
+- pamhc2trees:dateitem
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:ingots/cobalt
+- tconstruct:cobalt_ingot
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#forge:salad_ingredients/zucchini
+- pamhc2crops:zucchiniitem
+
+#forge:vegetables/peanut
+- pamhc2crops:peanutitem
+
+#forge:plates/iron
+- create:iron_sheet
+
+#survivalist:fibre_sources
+- minecraft:grass
+- minecraft:tall_grass
+- minecraft:vine
+- minecraft:fern
+- minecraft:large_fern
+
+#forge:carbs/oats
+- pamhc2crops:oatsitem
+
+#forge:nuggets/silver
+- alltheores:silver_nugget
+- survivalist:silver_nugget
+
+#forge:crops/broccoli
+- pamhc2crops:broccoliitem
+
+#forge:carbs/corn
+- pamhc2crops:cornitem
+
+#tconstruct:structure_debug
+- #tconstruct:guides
+
+#forge:carbs/rye
+- pamhc2crops:ryeitem
+
+#forge:books
+- #forge:books/guide
+
+#tconstruct:casts/single_use/large_plate
+- tconstruct:large_plate_sand_cast
+- tconstruct:large_plate_red_sand_cast
+
+#tconstruct:casts/single_use/nugget
+- tconstruct:nugget_sand_cast
+- tconstruct:nugget_red_sand_cast
+
+#forge:seeds/cabbage
+- pamhc2crops:cabbageseeditem
+
+#mekanism:clumps/copper
+- alltheores:copper_clump
+
+#cauldronrecipes:dyed_carpets
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#forge:fruits/gooseberry
+- pamhc2trees:gooseberryitem
+
+#forge:vinegar_ingredients/oats
+- pamhc2crops:oatsitem
+
+#forge:nuts/almond
+- pamhc2trees:almonditem
+
+#forge:crops/pineapple
+- pamhc2crops:pineappleitem
+
+#forge:vinegar_ingredients/lime
+- pamhc2trees:limeitem
+
+#forge:bookshelves
+- minecraft:bookshelf
+
+#forge:ores/platinum
+- alltheores:ore_platinum
+
+#forge:flour_plants/apple
+- minecraft:apple
+
+#forge:flour_plants/amaranth
+- pamhc2crops:amaranthitem
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#forge:rootvegetables/garlic
+- pamhc2crops:garlicitem
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+
+#forge:seeds/mustardseeds
+- pamhc2crops:mustardseedsseeditem
+
+#forge:vegetables/broccoli
+- pamhc2crops:broccoliitem
+
+#tconstruct:casts/single_use/small_blade
+- tconstruct:small_blade_sand_cast
+- tconstruct:small_blade_red_sand_cast
+
+#forge:netherrack
+- minecraft:netherrack
+
+#forge:fruits/grapefruit
+- pamhc2trees:grapefruititem
+
+#createautomated:bits
+- createautomated:diamond_bit
+- createautomated:emerald_bit
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- tconstruct:soul_glass
+
+#forge:vegetables/scallion
+- pamhc2crops:scallionitem
+
+#forge:crops/flax
+- pamhc2crops:flaxitem
+
+#forge:crops/juniperberry
+- pamhc2crops:juniperberryitem
+
+#forge:seeds/agave
+- pamhc2crops:agaveseeditem
+
+#tconstruct:casts/single_use/repair_kit
+- tconstruct:repair_kit_sand_cast
+- tconstruct:repair_kit_red_sand_cast
+
+#forge:vegetables/cassava
+- pamhc2crops:cassavaitem
+
+#mekanism:crystals/nickel
+- alltheores:nickel_crystal
+
+#forge:crops/tealeaf
+- pamhc2crops:tealeafitem
+
+#forge:eggs
+- minecraft:egg
+
+#forge:rootvegetables/taro
+- pamhc2crops:taroitem
+
+#survivalist:ore_rocks/silver
+- survivalist:silver_ore_rock
+
+#mantle:offhand_cooldown
+- #tconstruct:modifiable/melee
+
+#forge:weak_ores/aluminum
+- survivalist:aluminum_ore_rock
+
+#tconstruct:casts/multi_use/small_blade
+- tconstruct:small_blade_cast
+
+#forge:vinegar_ingredients
+- #forge:vinegar_ingredients/cherry
+- #forge:vinegar_ingredients/gooseberry
+- #forge:vinegar_ingredients/lemon
+- #forge:vinegar_ingredients/orange
+- #forge:vinegar_ingredients/peach
+- #forge:vinegar_ingredients/pear
+- #forge:vinegar_ingredients/plum
+- #forge:vinegar_ingredients/pawpaw
+- #forge:vinegar_ingredients/soursop
+- #forge:vinegar_ingredients/apricot
+- #forge:vinegar_ingredients/banana
+- #forge:vinegar_ingredients/date
+- #forge:vinegar_ingredients/dragonfruit
+- #forge:vinegar_ingredients/durian
+- #forge:vinegar_ingredients/fig
+- #forge:vinegar_ingredients/grapefruit
+- #forge:vinegar_ingredients/lime
+- #forge:vinegar_ingredients/mango
+- #forge:vinegar_ingredients/papaya
+- #forge:vinegar_ingredients/persimmon
+- #forge:vinegar_ingredients/pomegranate
+- #forge:vinegar_ingredients/starfruit
+- #forge:vinegar_ingredients/breadfruit
+- #forge:vinegar_ingredients/guava
+- #forge:vinegar_ingredients/jackfruit
+- #forge:vinegar_ingredients/lychee
+- #forge:vinegar_ingredients/passionfruit
+- #forge:vinegar_ingredients/rambutan
+- #forge:vinegar_ingredients/tamarind
+- #forge:vinegar_ingredients/agave
+- #forge:vinegar_ingredients/barley
+- #forge:vinegar_ingredients/grape
+- #forge:vinegar_ingredients/grapes
+- #forge:vinegar_ingredients/greengrape
+- #forge:vinegar_ingredients/kiwi
+- #forge:vinegar_ingredients/millet
+- #forge:vinegar_ingredients/oat
+- #forge:vinegar_ingredients/oats
+- #forge:vinegar_ingredients/raspberries
+- #forge:vinegar_ingredients/raspberry
+- #forge:vinegar_ingredients/rye
+- #forge:vinegar_ingredients/rice
+- #forge:vinegar_ingredients/tomato
+- #forge:vinegar_ingredients/blackberries
+- #forge:vinegar_ingredients/blackberry
+- #forge:vinegar_ingredients/blueberries
+- #forge:vinegar_ingredients/blueberry
+- #forge:vinegar_ingredients/cactusfruit
+- #forge:vinegar_ingredients/cactus_fruit
+- #forge:vinegar_ingredients/candleberry
+- #forge:vinegar_ingredients/cantaloupe
+- #forge:vinegar_ingredients/cranberry
+- #forge:vinegar_ingredients/elderberry
+- #forge:vinegar_ingredients/huckleberry
+- #forge:vinegar_ingredients/juniperberry
+- #forge:vinegar_ingredients/melon
+- #forge:vinegar_ingredients/mulberry
+- #forge:vinegar_ingredients/pineapple
+- #forge:vinegar_ingredients/strawberries
+- #forge:vinegar_ingredients/strawberry
+- #forge:vinegar_ingredients/sweet_berries
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#survivalist:chopping_blocks
+- survivalist:oak_chopping_block
+- survivalist:chipped_oak_chopping_block
+- survivalist:damaged_oak_chopping_block
+- survivalist:birch_chopping_block
+- survivalist:chipped_birch_chopping_block
+- survivalist:damaged_birch_chopping_block
+- survivalist:spruce_chopping_block
+- survivalist:chipped_spruce_chopping_block
+- survivalist:damaged_spruce_chopping_block
+- survivalist:jungle_chopping_block
+- survivalist:chipped_jungle_chopping_block
+- survivalist:damaged_jungle_chopping_block
+- survivalist:dark_oak_chopping_block
+- survivalist:chipped_dark_oak_chopping_block
+- survivalist:damaged_dark_oak_chopping_block
+- survivalist:acacia_chopping_block
+- survivalist:chipped_acacia_chopping_block
+- survivalist:damaged_acacia_chopping_block
+
+#survivalist:nuggets/lead
+- survivalist:lead_nugget
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+
+#tconstruct:modifiable/two_handed
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:excavator
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:cleaver
+
+#forge:fruits/blueberry
+- pamhc2crops:blueberryitem
+
+#forge:crops/arrowroot
+- pamhc2crops:arrowrootitem
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:paper_plants
+- #forge:paper_plants/blackberry
+- #forge:paper_plants/juniperberry
+- #forge:paper_plants/kelp
+- #forge:paper_plants/mulberry
+- #forge:paper_plants/okra
+- #forge:paper_plants/pineapple
+- #forge:paper_plants/raspberry
+- #forge:paper_plants/rice
+- #forge:paper_plants/spiceleaf
+
+#forge:glass/colorless
+- minecraft:glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- tconstruct:clear_glass
+
+#forge:seeds/sisal
+- pamhc2crops:sisalseeditem
+
+#forge:paper_plants/kelp
+- minecraft:kelp
+
+#forge:ingots/slimesteel
+- tconstruct:slimesteel_ingot
+
+#forge:crops/chickpea
+- pamhc2crops:chickpeaitem
+
+#forge:crops/candleberry
+- pamhc2crops:candleberryitem
+
+#forge:nuggets/aluminum
+- alltheores:aluminum_nugget
+- survivalist:aluminum_nugget
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- tconstruct:white_clear_stained_glass
+- tconstruct:orange_clear_stained_glass
+- tconstruct:magenta_clear_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+- tconstruct:yellow_clear_stained_glass
+- tconstruct:lime_clear_stained_glass
+- tconstruct:pink_clear_stained_glass
+- tconstruct:gray_clear_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+- tconstruct:cyan_clear_stained_glass
+- tconstruct:purple_clear_stained_glass
+- tconstruct:blue_clear_stained_glass
+- tconstruct:brown_clear_stained_glass
+- tconstruct:green_clear_stained_glass
+- tconstruct:red_clear_stained_glass
+- tconstruct:black_clear_stained_glass
+
+#forge:seeds/cantaloupe
+- pamhc2crops:cantaloupeseeditem
+
+#forge:salad_ingredients/cabbage
+- pamhc2crops:cabbageitem
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#forge:dusts/zinc
+- alltheores:zinc_dust
+
+#mekanism:clumps/nickel
+- alltheores:nickel_clump
+
+#tconstruct:casts/single_use/broad_axe_head
+- tconstruct:broad_axe_head_sand_cast
+- tconstruct:broad_axe_head_red_sand_cast
+
+#forge:vegetables/rhubarb
+- pamhc2crops:rhubarbitem
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#tconstruct:modifiable/harvest
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- #tconstruct:modifiable/harvest/primary
+- #tconstruct:modifiable/harvest/stone
+
+#forge:ingots/tin
+- alltheores:tin_ingot
+
+#mekanism:dirty_dusts/silver
+- alltheores:dirty_silver_dust
+
+#forge:vinegar_ingredients/oat
+- pamhc2crops:oatsitem
+
+#forge:slimeball/earth
+- minecraft:slime_ball
+
+#forge:leafyvegetables/cabbage
+- pamhc2crops:cabbageitem
+
+#forge:crops/cherry
+- pamhc2trees:cherryitem
+
+#forge:vegetables/cucumber
+- pamhc2crops:cucumberitem
+
+#mekanism:crystals/zinc
+- alltheores:zinc_crystal
+
+#forge:crops/soursop
+- pamhc2trees:soursopitem
+
+#forge:crops/date
+- pamhc2trees:dateitem
+
+#forge:fruits/durian
+- pamhc2trees:durianitem
+
+#forge:bones
+- minecraft:bone
+
+#quark:ladders
+- bamboo_blocks:bamboo_ladder
+
+#forge:crops/corn
+- pamhc2crops:cornitem
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+
+#forge:seeds/scallion
+- pamhc2crops:scallionseeditem
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- tconstruct:bloodshroom_planks
+- tconstruct:bloodshroom_planks_slab
+- tconstruct:bloodshroom_planks_stairs
+- tconstruct:bloodshroom_fence
+- tconstruct:bloodshroom_fence_gate
+- tconstruct:bloodshroom_door
+- tconstruct:bloodshroom_trapdoor
+- tconstruct:bloodshroom_pressure_plate
+- tconstruct:bloodshroom_button
+- #tconstruct:bloodshroom_logs
+- decorative_blocks:crimson_beam
+- decorative_blocks:crimson_seat
+- decorative_blocks:crimson_support
+- decorative_blocks:warped_palisade
+- decorative_blocks:warped_seat
+- decorative_blocks:warped_support
+- decorative_blocks:warped_palisade
+
+#forge:crops/oats
+- pamhc2crops:oatsitem
+
+#forge:seeds/jicama
+- pamhc2crops:jicamaseeditem
+
+#forge:crops/lime
+- pamhc2trees:limeitem
+
+#forge:dusts/iron
+- alltheores:iron_dust
+
+#forge:grain/rye
+- pamhc2crops:ryeitem
+
+#forge:vegetables/onion
+- pamhc2crops:onionitem
+
+#forge:seeds/parsnip
+- pamhc2crops:parsnipseeditem
+
+#forge:flour_plants/cassava
+- pamhc2crops:cassavaitem
+
+#tconstruct:seared_blocks
+- tconstruct:seared_stone
+- tconstruct:seared_cracked_bricks
+- tconstruct:seared_cobble
+- tconstruct:seared_paver
+- #tconstruct:seared_bricks
+
+#forge:storage_blocks/soulsteel
+- tconstruct:soulsteel_block
+
+#forge:crops/banana
+- pamhc2trees:bananaitem
+
+#forge:vinegar_ingredients/pineapple
+- pamhc2crops:pineappleitem
+
+#forge:paper_plants/mulberry
+- pamhc2crops:mulberryitem
+
+#forge:vegetables/olive
+- pamhc2trees:oliveitem
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#forge:salad_ingredients/cucumber
+- pamhc2crops:cucumberitem
+
+#forge:storage_blocks/tin
+- alltheores:tin_block
+
+#forge:seeds/kenaf
+- pamhc2crops:kenafseeditem
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#forge:small_ores/silver
+- survivalist:silver_ore_rock
+
+#forge:storage_blocks/knightslime
+- tconstruct:knightslime_block
+
+#forge:fruits/banana
+- pamhc2trees:bananaitem
+
+#forge:fruits/blueberries
+- pamhc2crops:blueberryitem
+
+#forge:protein/sweetpotato
+- pamhc2crops:sweetpotatoitem
+
+#tconstruct:anvil_metal
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/bronze?
+- #forge:storage_blocks/brass?
+- #forge:storage_blocks/electrum?
+- #forge:storage_blocks/invar?
+- #forge:storage_blocks/constantan?
+- #forge:storage_blocks/pewter?
+- #forge:storage_blocks/steel?
+
+#forge:seeds/blackberry
+- pamhc2crops:blackberryseeditem
+
+#tconstruct:casts/single_use/coin
+- tconstruct:coin_sand_cast
+- tconstruct:coin_red_sand_cast
+
+#forge:seeds/greengrape
+- pamhc2crops:greengrapeseeditem
+
+#forge:fruits/pomegranate
+- pamhc2trees:pomegranateitem
+
+#createautomated:ore_pieces
+- createautomated:lapis_ore_piece
+- createautomated:iron_ore_piece
+- createautomated:zinc_ore_piece
+- createautomated:gold_ore_piece
+- createautomated:copper_ore_piece
+- createautomated:cinder_flour_ore_piece
+
+#forge:vinegar_ingredients/candleberry
+- pamhc2crops:candleberryitem
+
+#forge:seeds/soybean
+- pamhc2crops:soybeanseeditem
+
+#forge:mushrooms/whitemushroom
+- pamhc2crops:whitemushroomitem
+
+#forge:crops/grape
+- pamhc2crops:grapeitem
+
+#forge:feathers
+- minecraft:feather
+
+#forge:weak_ores/tin
+- survivalist:tin_ore_rock
+
+#forge:crops/durian
+- pamhc2trees:durianitem
+
+#forge:dusts/silver
+- alltheores:silver_dust
+
+#forge:string
+- minecraft:string
+
+#forge:grain/rice
+- pamhc2crops:riceitem
+
+#forge:poor_ores/iron
+- survivalist:iron_ore_rock
+
+#forge:seeds/waterchestnut
+- pamhc2crops:waterchestnutseeditem
+
+#forge:crops/coffeebean
+- pamhc2crops:coffeebeanitem
+
+#forge:vinegar_ingredients/kiwi
+- pamhc2crops:kiwiitem
+
+#forge:crops/scallion
+- pamhc2crops:scallionitem
+
+#forge:fruits/grapes
+- pamhc2crops:grapeitem
+
+#tconstruct:skyroot_logs
+- tconstruct:skyroot_log
+- tconstruct:stripped_skyroot_log
+- tconstruct:skyroot_wood
+- tconstruct:stripped_skyroot_wood
+
+#forge:seeds/celery
+- pamhc2crops:celeryseeditem
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- #tconstruct:slimy_leaves
+
+#forge:crops/celery
+- pamhc2crops:celeryitem
+
+#forge:vinegar_ingredients/pomegranate
+- pamhc2trees:pomegranateitem
+
+#forge:flour_plants/rye
+- pamhc2crops:ryeitem
+
+#forge:carbs/rice
+- pamhc2crops:riceitem
+
+#mekanism:crystals/copper
+- alltheores:copper_crystal
+
+#forge:crops/peanut
+- pamhc2crops:peanutitem
+
+#forge:fruits/elderberry
+- pamhc2crops:elderberryitem
+
+#forge:fruits/cherry
+- pamhc2trees:cherryitem
+
+#forge:seeds/kiwi
+- pamhc2crops:kiwiseeditem
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- decorative_blocks:acacia_beam
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- create:golden_sheet
+- create:crushed_gold_ore
+
+#forge:spices/mustardseeds
+- pamhc2crops:mustardseedsitem
+
+#forge:dusts/aluminum
+- alltheores:aluminum_dust
+
+#forge:crops/mulberry
+- pamhc2crops:mulberryitem
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:crops/pomegranate
+- pamhc2trees:pomegranateitem
+
+#forge:crops/bellpepper
+- pamhc2crops:bellpepperitem
+
+#forge:ore_rocks/iron
+- survivalist:iron_ore_rock
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+- tconstruct:brown_clear_stained_glass
+
+#forge:vegetables
+- #forge:vegetables/avocado
+- #forge:vegetables/olive
+- #forge:vegetables/arrowroot
+- #forge:vegetables/artichoke
+- #forge:vegetables/asparagus
+- #forge:vegetables/bellpepper
+- #forge:vegetables/broccoli
+- #forge:vegetables/brusselsprout
+- #forge:vegetables/cabbage
+- #forge:vegetables/cassava
+- #forge:vegetables/cauliflower
+- #forge:vegetables/celery
+- #forge:vegetables/chilipepper
+- #forge:vegetables/cucumber
+- #forge:vegetables/eggplant
+- #forge:vegetables/garlic
+- #forge:vegetables/jicama
+- #forge:vegetables/kale
+- #forge:vegetables/kohlrabi
+- #forge:vegetables/leek
+- #forge:vegetables/lettuce
+- #forge:vegetables/okra
+- #forge:vegetables/onion
+- #forge:vegetables/parsnip
+- #forge:vegetables/pea
+- #forge:vegetables/peas
+- #forge:vegetables/radish
+- #forge:vegetables/rhubarb
+- #forge:vegetables/rutabaga
+- #forge:vegetables/scallion
+- #forge:vegetables/spinach
+- #forge:vegetables/sweetpotato
+- #forge:vegetables/sweet_potato
+- #forge:vegetables/taro
+- #forge:vegetables/tomatillo
+- #forge:vegetables/tomato
+- #forge:vegetables/turnip
+- #forge:vegetables/waterchestnut
+- #forge:vegetables/wintersquash
+- #forge:vegetables/zucchini
+
+#survivalist:nuggets/copper
+- survivalist:copper_nugget
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #tconstruct:greenheart_logs
+- #tconstruct:skyroot_logs
+
+#forge:dusts/osmium
+- alltheores:osmium_dust
+
+#forge:salad_ingredients/tomato
+- pamhc2crops:tomatoitem
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+
+#forge:flour_plants/corn
+- pamhc2crops:cornitem
+
+#forge:vinegar_ingredients/grapes
+- pamhc2crops:grapeitem
+
+#survivalist:rock_sources/aluminum
+- #forge:ores/aluminum?
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- bamboo_blocks:bamboo_slab
+- tconstruct:greenheart_planks_slab
+- tconstruct:skyroot_planks_slab
+- tconstruct:bloodshroom_planks_slab
+
+#tconstruct:modifiable/multipart
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#forge:fruits/mulberry
+- pamhc2crops:mulberryitem
+
+#tconstruct:casts/multi_use/hammer_head
+- tconstruct:hammer_head_cast
+
+#tconstruct:casts/multi_use/tool_handle
+- tconstruct:tool_handle_cast
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#forge:salad_ingredients/asparagus
+- pamhc2crops:asparagusitem
+
+#forge:fruits/pineapple
+- pamhc2crops:pineappleitem
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:ores/osmium
+- alltheores:ore_osmium
+
+#forge:flour_plants/walnut
+- pamhc2trees:walnutitem
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#forge:seeds/spiceleaf
+- pamhc2crops:spiceleafseeditem
+
+#forge:fiber/cotton
+- pamhc2crops:cottonitem
+
+#forge:ore_rocks/silver
+- survivalist:silver_ore_rock
+
+#forge:crops/sweet_potato
+- pamhc2crops:sweetpotatoitem
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#createautomated:bits/emerald
+- createautomated:emerald_bit
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#forge:vinegar_ingredients/plum
+- pamhc2trees:plumitem
+
+#tconstruct:slimy_saplings
+- tconstruct:earth_slime_sapling
+- tconstruct:sky_slime_sapling
+- tconstruct:ender_slime_sapling
+
+#forge:vinegar_ingredients/melon
+- minecraft:melon_slice
+
+#forge:nuggets/lead
+- alltheores:lead_nugget
+- survivalist:lead_nugget
+
+#forge:seeds/sweetpotato
+- pamhc2crops:sweetpotatoseeditem
+
+#forge:ore_rocks/aluminum
+- survivalist:aluminum_ore_rock
+
+#forge:plates/brass
+- create:brass_sheet
+
+#forge:crops/radish
+- pamhc2crops:radishitem
+
+#mekanism:shards/lead
+- alltheores:lead_shard
+
+#forge:seeds/spinach
+- pamhc2crops:spinachseeditem
+
+#tconstruct:modifiable/held
+- #tconstruct:modifiable/one_handed
+- #tconstruct:modifiable/two_handed
+
+#forge:vinegar_ingredients/huckleberry
+- pamhc2crops:huckleberryitem
+
+#forge:crops/tomato
+- pamhc2crops:tomatoitem
+
+#forge:slimeball/ichor
+- tconstruct:ichor_slime_ball
+
+#forge:fruits/blackberries
+- pamhc2crops:blackberryitem
+
+#forge:fruits/tamarind
+- pamhc2trees:tamarinditem
+
+#forge:crops/spinach
+- pamhc2crops:spinachitem
+
+#tconstruct:casts/multi_use/rod
+- tconstruct:rod_cast
+
+#waystones:dyed_sharestone
+- waystones:white_sharestone
+- waystones:orange_sharestone
+- waystones:magenta_sharestone
+- waystones:light_blue_sharestone
+- waystones:yellow_sharestone
+- waystones:lime_sharestone
+- waystones:pink_sharestone
+- waystones:gray_sharestone
+- waystones:light_gray_sharestone
+- waystones:cyan_sharestone
+- waystones:purple_sharestone
+- waystones:blue_sharestone
+- waystones:brown_sharestone
+- waystones:green_sharestone
+- waystones:red_sharestone
+- waystones:black_sharestone
+
+#forge:small_ores/gold
+- survivalist:gold_ore_rock
+
+#forge:crops/tamarind
+- pamhc2trees:tamarinditem
+
+#forge:crops/almond
+- pamhc2trees:almonditem
+
+#forge:seeds/peanut
+- pamhc2crops:peanutseeditem
+
+#forge:seeds/elderberry
+- pamhc2crops:elderberryseeditem
+
+#forge:ores/silver
+- alltheores:ore_silver
+
+#forge:crops/brusselsprout
+- pamhc2crops:brusselsproutitem
+
+#mekanism:clumps/lead
+- alltheores:lead_clump
+
+#forge:salad_ingredients/spinach
+- pamhc2crops:spinachitem
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+
+#forge:dusts
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+- #forge:dusts/aluminum
+- #forge:dusts/copper
+- #forge:dusts/lead
+- #forge:dusts/nickel
+- #forge:dusts/osmium
+- #forge:dusts/platinum
+- #forge:dusts/silver
+- #forge:dusts/tin
+- #forge:dusts/zinc
+- #forge:dusts/iron
+- #forge:dusts/gold
+- #forge:dusts/uranium
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+- tconstruct:yellow_clear_stained_glass
+
+#forge:seeds/huckleberry
+- pamhc2crops:huckleberryseeditem
+
+#forge:crops/huckleberry
+- pamhc2crops:huckleberryitem
+
+#forge:nuggets/cobalt
+- tconstruct:cobalt_nugget
+
+#forge:crops/parsnip
+- pamhc2crops:parsnipitem
+
+#forge:flour_plants/coconut
+- pamhc2trees:coconutitem
+
+#tconstruct:casts/multi_use/plate
+- tconstruct:plate_cast
+
+#forge:seeds/tealeaf
+- pamhc2crops:tealeafseeditem
+
+#forge:poor_ores/aluminum
+- survivalist:aluminum_ore_rock
+
+#forge:rootvegetables/sweet_potato
+- pamhc2crops:sweetpotatoitem
+
+#biomesoplenty:dead_logs
+- decorative_blocks:dead_beam
+
+#forge:grain/chickpea
+- pamhc2crops:chickpeaitem
+
+#forge:vinegar_ingredients/guava
+- pamhc2trees:guavaitem
+
+#forge:storage_blocks/pig_iron
+- tconstruct:pig_iron_block
+
+#forge:grain/corn
+- pamhc2crops:cornitem
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#forge:egg/flax
+- pamhc2crops:flaxitem
+
+#tconstruct:casts/single_use/ingot
+- tconstruct:ingot_sand_cast
+- tconstruct:ingot_red_sand_cast
+
+#forge:flour_plants/barley
+- pamhc2crops:barleyitem
+
+#forge:rootvegetables/radish
+- pamhc2crops:radishitem
+
+#forge:storage_blocks/manyullyn
+- tconstruct:manyullyn_block
+
+#forge:seeds/juniperberry
+- pamhc2crops:juniperberryseeditem
+
+#forge:seeds/candleberry
+- pamhc2crops:candleberryseeditem
+
+#forge:shears
+- minecraft:shears
+- tconstruct:kama
+
+#forge:salad_ingredients/artichoke
+- pamhc2crops:artichokeitem
+
+#forge:fiber/jute
+- pamhc2crops:juteitem
+
+#tconstruct:greenheart_logs
+- tconstruct:greenheart_log
+- tconstruct:stripped_greenheart_log
+- tconstruct:greenheart_wood
+- tconstruct:stripped_greenheart_wood
+
+#forge:fruits/grape
+- pamhc2crops:grapeitem
+
+#forge:crops/pinenut
+- pamhc2trees:pinenutitem
+
+#forge:vinegar_ingredients/cantaloupe
+- pamhc2crops:cantaloupeitem
+
+#mekanism:shards/platinum
+- alltheores:platinum_shard
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- bamboo_blocks:bamboo_planks
+- bamboo_blocks:vertical_bamboo_planks
+- #tconstruct:slimy_planks
+
+#forge:flour_plants
+- #forge:flour_plants/apple
+- #forge:flour_plants/banana
+- #forge:flour_plants/coconut
+- #forge:flour_plants/breadfruit
+- #forge:flour_plants/almond
+- #forge:flour_plants/cashew
+- #forge:flour_plants/chestnut
+- #forge:flour_plants/hazelnut
+- #forge:flour_plants/pecan
+- #forge:flour_plants/pinenut
+- #forge:flour_plants/pistachio
+- #forge:flour_plants/walnut
+- #forge:flour_plants/amaranth
+- #forge:flour_plants/arrowroot
+- #forge:flour_plants/barley
+- #forge:flour_plants/bean
+- #forge:flour_plants/cassava
+- #forge:flour_plants/chickpea
+- #forge:flour_plants/corn
+- #forge:flour_plants/jicama
+- #forge:flour_plants/lentil
+- #forge:flour_plants/millet
+- #forge:flour_plants/oat
+- #forge:flour_plants/oats
+- #forge:flour_plants/pea
+- #forge:flour_plants/peas
+- #forge:flour_plants/peanut
+- #forge:flour_plants/quinoa
+- #forge:flour_plants/rice
+- #forge:flour_plants/rutabaga
+- #forge:flour_plants/rye
+- #forge:flour_plants/soybean
+- #forge:flour_plants/taro
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+
+#forge:vegetables/kohlrabi
+- pamhc2crops:kohlrabiitem
+
+#forge:seeds/bean
+- pamhc2crops:beanseeditem
+
+#forge:rootvegetables/peanut
+- pamhc2crops:peanutitem
+
+#forge:seeds/radish
+- pamhc2crops:radishseeditem
+
+#forge:seeds/kohlrabi
+- pamhc2crops:kohlrabiseeditem
+
+#forge:seeds/tomato
+- pamhc2crops:tomatoseeditem
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#forge:salad_ingredients/brusselsprout
+- pamhc2crops:brusselsproutitem
+
+#tconstruct:modifiable/one_handed
+- tconstruct:pickaxe
+- tconstruct:mattock
+- tconstruct:hand_axe
+- tconstruct:kama
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:flint_and_bronze
+
+#tconstruct:slimeslings
+- tconstruct:earth_slime_sling
+- tconstruct:sky_slime_sling
+- tconstruct:ichor_slime_sling
+- tconstruct:ender_slime_sling
+
+#forge:seeds/whitemushroom
+- pamhc2crops:whitemushroomseeditem
+
+#forge:vinegar_ingredients/durian
+- pamhc2trees:durianitem
+
+#tconstruct:casts/multi_use/repair_kit
+- tconstruct:repair_kit_cast
+
+#forge:seeds/sesameseeds
+- pamhc2crops:sesameseedsseeditem
+
+#forge:flour_plants/cashew
+- pamhc2trees:cashewitem
+
+#tconstruct:modifiable/melee
+- tconstruct:pickaxe
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:kama
+- tconstruct:flint_and_bronze
+- #tconstruct:modifiable/melee/primary
+- #tconstruct:modifiable/melee/sword
+
+#cauldronrecipes:dyed_beds
+- minecraft:orange_bed
+- minecraft:magenta_bed
+- minecraft:light_blue_bed
+- minecraft:yellow_bed
+- minecraft:lime_bed
+- minecraft:pink_bed
+- minecraft:gray_bed
+- minecraft:light_gray_bed
+- minecraft:cyan_bed
+- minecraft:purple_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:green_bed
+- minecraft:red_bed
+- minecraft:black_bed
+
+#mekanism:dirty_dusts
+- #mekanism:dirty_dusts/aluminum
+- #mekanism:dirty_dusts/copper
+- #mekanism:dirty_dusts/lead
+- #mekanism:dirty_dusts/nickel
+- #mekanism:dirty_dusts/osmium
+- #mekanism:dirty_dusts/platinum
+- #mekanism:dirty_dusts/silver
+- #mekanism:dirty_dusts/tin
+- #mekanism:dirty_dusts/uranium
+- #mekanism:dirty_dusts/zinc
+
+#forge:flour_plants/oats
+- pamhc2crops:oatsitem
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:crops/cauliflower
+- pamhc2crops:caulifloweritem
+
+#forge:vinegar_ingredients/barley
+- pamhc2crops:barleyitem
+
+#mekanism:dirty_dusts/osmium
+- alltheores:dirty_osmium_dust
+
+#forge:crops/kohlrabi
+- pamhc2crops:kohlrabiitem
+
+#forge:crops/avocado
+- pamhc2trees:avocadoitem
+
+#forge:plates/copper
+- create:copper_sheet
+
+#forge:grain/oats
+- pamhc2crops:oatsitem
+
+#forge:fruits/juniperberry
+- pamhc2crops:juniperberryitem
